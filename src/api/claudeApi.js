@@ -26,7 +26,7 @@ export const askClaudeWithContext = async (userMessage, systemPrompt, conversati
 
     const message = await anthropic.messages.create({
       model: 'claude-sonnet-4-5',
-      max_tokens: 1024,
+      max_tokens: 4096,
       system: systemPrompt,
       messages,
     });

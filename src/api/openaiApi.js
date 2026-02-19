@@ -31,7 +31,7 @@ export const askOpenAIWithContext = async (userMessage, systemPrompt, conversati
     const completion = await openai.chat.completions.create({
       model: 'gpt-4o',
       messages,
-      max_tokens: 1024,
+      max_tokens: 4096,
     });
 
     const text = completion.choices?.[0]?.message?.content;
