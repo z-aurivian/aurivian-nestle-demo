@@ -1,0 +1,1593 @@
+{
+  "ingredientId": "magnesium_sleep",
+  "label": "Magnesium + Sleep",
+  "fetchedAt": "2026-02-19T11:29:56.496Z",
+  "pubmed": {
+    "query": "(magnesium) AND (sleep OR insomnia OR \"sleep quality\" OR PSQI) AND (randomized controlled trial[pt] OR meta-analysis[pt] OR review[pt])",
+    "totalResults": 166,
+    "fetchedCount": 50,
+    "articles": [
+      {
+        "pmid": "35184264",
+        "title": "The Role of Magnesium in Sleep Health: a Systematic Review of Available Literature.",
+        "authors": [
+          "Arab A",
+          "Rafie N",
+          "Amani R",
+          "Shirani F"
+        ],
+        "journal": "Biol Trace Elem Res",
+        "year": 2023,
+        "pubDate": "2023 Jan",
+        "doi": "10.1007/s12011-022-03162-1",
+        "pubType": [
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "33865376",
+        "title": "Oral magnesium supplementation for insomnia in older adults: a Systematic Review & Meta-Analysis.",
+        "authors": [
+          "Mah J",
+          "Pitre T"
+        ],
+        "journal": "BMC Complement Med Ther",
+        "year": 2021,
+        "pubDate": "2021 Apr 17",
+        "doi": "10.1186/s12906-021-03297-z",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "33441476",
+        "title": "Efficacy of dietary supplements on improving sleep quality: a systematic review and meta-analysis.",
+        "authors": [
+          "Chan V",
+          "Lo K"
+        ],
+        "journal": "Postgrad Med J",
+        "year": 2022,
+        "pubDate": "2022 Apr",
+        "doi": "10.1136/postgradmedj-2020-139319",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "39534260",
+        "title": "Effects of magnesium and potassium supplementation on insomnia and sleep hormones in patients with diabetes mellitus.",
+        "authors": [
+          "Khalid S",
+          "Bashir S",
+          "Mehboob R",
+          "Anwar T",
+          "Ali M",
+          "Hashim M",
+          "Waseem H",
+          "Basharat S"
+        ],
+        "journal": "Front Endocrinol (Lausanne)",
+        "year": 2024,
+        "pubDate": "2024",
+        "doi": "10.3389/fendo.2024.1370733",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "38817505",
+        "title": "Examining the Effects of Supplemental Magnesium on Self-Reported Anxiety and Sleep Quality: A Systematic Review.",
+        "authors": [
+          "Rawji A",
+          "Peltier MR",
+          "Mourtzanakis K",
+          "Awan S",
+          "Rana J",
+          "Pothen NJ",
+          "Afzal S"
+        ],
+        "journal": "Cureus",
+        "year": 2024,
+        "pubDate": "2024 Apr",
+        "doi": "10.7759/cureus.59317",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "33573164",
+        "title": "Magnesium in Aging, Health and Diseases.",
+        "authors": [
+          "Barbagallo M",
+          "Veronese N",
+          "Dominguez LJ"
+        ],
+        "journal": "Nutrients",
+        "year": 2021,
+        "pubDate": "2021 Jan 30",
+        "doi": "10.3390/nu13020463",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "35218742",
+        "title": "Management of Life-Threatening Asthma: Severe Asthma Series.",
+        "authors": [
+          "Garner O",
+          "Ramey JS",
+          "Hanania NA"
+        ],
+        "journal": "Chest",
+        "year": 2022,
+        "pubDate": "2022 Oct",
+        "doi": "10.1016/j.chest.2022.02.029",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "38279728",
+        "title": "Diet and Lifestyle Modifications for Fibromyalgia.",
+        "authors": [
+          "Metyas C",
+          "Aung TT",
+          "Cheung J",
+          "Joseph M",
+          "Ballester AM",
+          "Metyas S"
+        ],
+        "journal": "Curr Rheumatol Rev",
+        "year": 2024,
+        "pubDate": "2024",
+        "doi": "10.2174/0115733971274700231226075717",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "39125311",
+        "title": "Mitigating Traumatic Brain Injury: A Narrative Review of Supplementation and Dietary Protocols.",
+        "authors": [
+          "Conti F",
+          "McCue JJ",
+          "DiTuro P",
+          "Galpin AJ",
+          "Wood TR"
+        ],
+        "journal": "Nutrients",
+        "year": 2024,
+        "pubDate": "2024 Jul 26",
+        "doi": "10.3390/nu16152430",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "38395640",
+        "title": "Intravenous magnesium sulfate for asthma exacerbations in children: Systematic review with meta-analysis.",
+        "authors": [
+          "Ambrożej D",
+          "Adamiec A",
+          "Forno E",
+          "Orzołek I",
+          "Feleszko W",
+          "Castro-Rodriguez JA"
+        ],
+        "journal": "Paediatr Respir Rev",
+        "year": 2024,
+        "pubDate": "2024 Dec",
+        "doi": "10.1016/j.prrv.2024.01.003",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "32224987",
+        "title": "Psychological and Sleep Effects of Tryptophan and Magnesium-Enriched Mediterranean Diet in Women with Fibromyalgia.",
+        "authors": [
+          "Martínez-Rodríguez A",
+          "Rubio-Arias JÁ",
+          "Ramos-Campo DJ",
+          "Reche-García C",
+          "Leyva-Vela B",
+          "Nadal-Nicolás Y"
+        ],
+        "journal": "Int J Environ Res Public Health",
+        "year": 2020,
+        "pubDate": "2020 Mar 26",
+        "doi": "10.3390/ijerph17072227",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "36094342",
+        "title": "Nutritional Modulation of Sleep Latency, Duration, and Efficiency: A Randomized, Repeated-Measures, Double-Blind Deception Study.",
+        "authors": [
+          "Langan-Evans C",
+          "Hearris MA",
+          "Gallagher C",
+          "Long S",
+          "Thomas C",
+          "Moss AD",
+          "Cheung W",
+          "Howatson G",
+          "Morton JP"
+        ],
+        "journal": "Med Sci Sports Exerc",
+        "year": 2023,
+        "pubDate": "2023 Feb 1",
+        "doi": "10.1249/MSS.0000000000003040",
+        "pubType": [
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "40378325",
+        "title": "Migraine Headache Prophylaxis.",
+        "authors": [
+          "Moreland P",
+          "Gaffney B",
+          "Lanham JS"
+        ],
+        "journal": "Am Fam Physician",
+        "year": 2025,
+        "pubDate": "2025 May",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "38745424",
+        "title": "The effects of melatonin and magnesium in a novel supplement delivery system on sleep scores, body composition and metabolism in otherwise healthy individuals with sleep disturbances.",
+        "authors": [
+          "Carlos RM",
+          "Matias CN",
+          "Cavaca ML",
+          "Cardoso S",
+          "Santos DA",
+          "Giro R",
+          "Vaz JR",
+          "Pereira P",
+          "Vicente F",
+          "Leonardo-Mendonça RC",
+          "Ganhão-Arranhado S",
+          "Santos HO",
+          "Reiter RJ",
+          "Teixeira FJ"
+        ],
+        "journal": "Chronobiol Int",
+        "year": 2024,
+        "pubDate": "2024 Jun",
+        "doi": "10.1080/07420528.2024.2353225",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "22928358",
+        "title": "The influence of components of diet on the symptoms of ADHD in children.",
+        "authors": [
+          "Konikowska K",
+          "Regulska-Ilow B",
+          "Rózańska D"
+        ],
+        "journal": "Rocz Panstw Zakl Hig",
+        "year": 2012,
+        "pubDate": "2012",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "25220092",
+        "title": "Nutritional supplements for the treatment of ADHD.",
+        "authors": [
+          "Bloch MH",
+          "Mulqueen J"
+        ],
+        "journal": "Child Adolesc Psychiatr Clin N Am",
+        "year": 2014,
+        "pubDate": "2014 Oct",
+        "doi": "10.1016/j.chc.2014.05.002",
+        "pubType": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "36587225",
+        "title": "Therapeutic effects of magnesium and vitamin B6 in alleviating the symptoms of restless legs syndrome: a randomized controlled clinical trial.",
+        "authors": [
+          "Jadidi A",
+          "Rezaei Ashtiani A",
+          "Khanmohamadi Hezaveh A",
+          "Aghaepour SM"
+        ],
+        "journal": "BMC Complement Med Ther",
+        "year": 2022,
+        "pubDate": "2022 Dec 31",
+        "doi": "10.1186/s12906-022-03814-8",
+        "pubType": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "35565828",
+        "title": "Effect of a Combination of Magnesium, B Vitamins, Rhodiola, and Green Tea (L-Theanine) on Chronically Stressed Healthy Individuals-A Randomized, Placebo-Controlled Study.",
+        "authors": [
+          "Noah L",
+          "Morel V",
+          "Bertin C",
+          "Pouteau E",
+          "Macian N",
+          "Dualé C",
+          "Pereira B",
+          "Pickering G"
+        ],
+        "journal": "Nutrients",
+        "year": 2022,
+        "pubDate": "2022 Apr 29",
+        "doi": "10.3390/nu14091863",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "38737872",
+        "title": "Current Evidence on Common Dietary Supplements for Sleep Quality.",
+        "authors": [
+          "Esquivel MK",
+          "Ghosn B"
+        ],
+        "journal": "Am J Lifestyle Med",
+        "year": 2024,
+        "pubDate": "2024 May-Jun",
+        "doi": "10.1177/15598276241227915",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "26519439",
+        "title": "Efficacy and Safety of MMFS-01, a Synapse Density Enhancer, for Treating Cognitive Impairment in Older Adults: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+        "authors": [
+          "Liu G",
+          "Weinger JG",
+          "Lu ZL",
+          "Xue F",
+          "Sadeghpour S"
+        ],
+        "journal": "J Alzheimers Dis",
+        "year": 2016,
+        "pubDate": "2016",
+        "doi": "10.3233/JAD-150538",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "37299394",
+        "title": "Dietary Nutrient Deficiencies and Risk of Depression (Review Article 2018-2023).",
+        "authors": [
+          "Zielińska M",
+          "Łuszczki E",
+          "Dereń K"
+        ],
+        "journal": "Nutrients",
+        "year": 2023,
+        "pubDate": "2023 May 23",
+        "doi": "10.3390/nu15112433",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "21199787",
+        "title": "Magnesium supplementation improves indicators of low magnesium status and inflammatory stress in adults older than 51 years with poor quality sleep.",
+        "authors": [
+          "Nielsen FH",
+          "Johnson LK",
+          "Zeng H"
+        ],
+        "journal": "Magnes Res",
+        "year": 2010,
+        "pubDate": "2010 Dec",
+        "doi": "10.1684/mrh.2010.0220",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "35631229",
+        "title": "Short-Term Magnesium Therapy Alleviates Moderate Stress in Patients with Fibromyalgia: A Randomized Double-Blind Clinical Trial.",
+        "authors": [
+          "Macian N",
+          "Dualé C",
+          "Voute M",
+          "Leray V",
+          "Courrent M",
+          "Bodé P",
+          "Giron F",
+          "Sonneville S",
+          "Bernard L",
+          "Joanny F",
+          "Menard K",
+          "Ducheix G",
+          "Pereira B",
+          "Pickering G"
+        ],
+        "journal": "Nutrients",
+        "year": 2022,
+        "pubDate": "2022 May 17",
+        "doi": "10.3390/nu14102088",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "36475060",
+        "title": "Migraine management: Non-pharmacological points for patients and health care professionals.",
+        "authors": [
+          "Haghdoost F",
+          "Togha M"
+        ],
+        "journal": "Open Med (Wars)",
+        "year": 2022,
+        "pubDate": "2022",
+        "doi": "10.1515/med-2022-0598",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "33763446",
+        "title": "The Impact of Nutrients on Mental Health and Well-Being: Insights From the Literature.",
+        "authors": [
+          "Muscaritoli M"
+        ],
+        "journal": "Front Nutr",
+        "year": 2021,
+        "pubDate": "2021",
+        "doi": "10.3389/fnut.2021.656290",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "34719399",
+        "title": "A randomized, double-blind, placebo-controlled, multicenter study assessing the efficacy of magnesium oxide monohydrate in the treatment of nocturnal leg cramps.",
+        "authors": [
+          "Barna O",
+          "Lohoida P",
+          "Holovchenko Y",
+          "Bazylevych A",
+          "Velychko V",
+          "Hovbakh I",
+          "Bula L",
+          "Shechter M"
+        ],
+        "journal": "Nutr J",
+        "year": 2021,
+        "pubDate": "2021 Oct 31",
+        "doi": "10.1186/s12937-021-00747-9",
+        "pubType": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "39042252",
+        "title": "Neuronutritional Approach to Fibromyalgia Management: A Narrative Review.",
+        "authors": [
+          "Badaeva A",
+          "Danilov A",
+          "Kosareva A",
+          "Lepshina M",
+          "Novikov V",
+          "Vorobyeva Y",
+          "Danilov A"
+        ],
+        "journal": "Pain Ther",
+        "year": 2024,
+        "pubDate": "2024 Oct",
+        "doi": "10.1007/s40122-024-00641-2",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "39853578",
+        "title": "Nutraceuticals and Headache 2024: Riboflavin, Coenzyme Q10, Feverfew, Magnesium, Melatonin, and Butterbur.",
+        "authors": [
+          "Tepper SJ",
+          "Tepper K"
+        ],
+        "journal": "Curr Pain Headache Rep",
+        "year": 2025,
+        "pubDate": "2025 Jan 24",
+        "doi": "10.1007/s11916-025-01358-3",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "39554957",
+        "title": "Nutritional Supplements for Healthy Aging: A Critical Analysis Review.",
+        "authors": [
+          "Kaufman MW",
+          "DeParis S",
+          "Oppezzo M",
+          "Mah C",
+          "Roche M",
+          "Frehlich L",
+          "Fredericson M"
+        ],
+        "journal": "Am J Lifestyle Med",
+        "year": 2025,
+        "pubDate": "2025 Mar-Apr",
+        "doi": "10.1177/15598276241244725",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "27002274",
+        "title": "Unpeeling the Evidence for the Banana Bag: Evidence-Based Recommendations for the Management of Alcohol-Associated Vitamin and Electrolyte Deficiencies in the ICU.",
+        "authors": [
+          "Flannery AH",
+          "Adkins DA",
+          "Cook AM"
+        ],
+        "journal": "Crit Care Med",
+        "year": 2016,
+        "pubDate": "2016 Aug",
+        "doi": "10.1097/CCM.0000000000001659",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "20301647",
+        "title": "Dopamine Beta-Hydroxylase Deficiency.",
+        "authors": [
+          "Adam MP",
+          "Bick S",
+          "Mirzaa GM",
+          "Pagon RA",
+          "Wallace SE",
+          "Amemiya A",
+          "Biaggioni I"
+        ],
+        "journal": "",
+        "year": 1993,
+        "pubDate": "1993",
+        "doi": "",
+        "pubType": [
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "12509067",
+        "title": "Magnesium and affective disorders.",
+        "authors": [
+          "Murck H"
+        ],
+        "journal": "Nutr Neurosci",
+        "year": 2002,
+        "pubDate": "2002 Dec",
+        "doi": "",
+        "pubType": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "22963024",
+        "title": "Nocturnal leg cramps.",
+        "authors": [
+          "Allen RE",
+          "Kirby KA"
+        ],
+        "journal": "Am Fam Physician",
+        "year": 2012,
+        "pubDate": "2012 Aug 15",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "28488531",
+        "title": "Magnesium bei nächtlichen Wadenkrämpfen sehr wahrscheinlich unwirksam.",
+        "authors": [
+          "Steurer J"
+        ],
+        "journal": "Praxis (Bern 1994)",
+        "year": 2017,
+        "pubDate": "2017",
+        "doi": "10.1024/1661-8157/a002670",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "ger"
+        ]
+      },
+      {
+        "pmid": "40728459",
+        "title": "[Nutrition in improving sleep quality and fighting insomnia].",
+        "authors": [
+          "Ortega RM",
+          "Jiménez-Ortega AI",
+          "Peral-Suárez Á",
+          "Martínez-García RM",
+          "González-Rodríguez LG"
+        ],
+        "journal": "Nutr Hosp",
+        "year": 2025,
+        "pubDate": "2025 Sep 11",
+        "doi": "10.20960/nh.06090",
+        "pubType": [
+          "Journal Article",
+          "Review",
+          "English Abstract"
+        ],
+        "language": [
+          "spa"
+        ]
+      },
+      {
+        "pmid": "34776104",
+        "title": "Postpartum Respiratory Depression.",
+        "authors": [
+          "Himmelwright RS",
+          "Dominguez JE"
+        ],
+        "journal": "Anesthesiol Clin",
+        "year": 2021,
+        "pubDate": "2021 Dec",
+        "doi": "10.1016/j.anclin.2021.08.003",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "37069414",
+        "title": "Idiopathic Hypersomnia: Neurobiology, Diagnosis, and Management.",
+        "authors": [
+          "Morse AM",
+          "Naik S"
+        ],
+        "journal": "CNS Drugs",
+        "year": 2023,
+        "pubDate": "2023 Apr",
+        "doi": "10.1007/s40263-023-00998-6",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "37489383",
+        "title": "Management of Migraine-Associated Vestibulocochlear Disorders.",
+        "authors": [
+          "Umemoto KK",
+          "Tawk K",
+          "Mazhari N",
+          "Abouzari M",
+          "Djalilian HR"
+        ],
+        "journal": "Audiol Res",
+        "year": 2023,
+        "pubDate": "2023 Jul 19",
+        "doi": "10.3390/audiolres13040047",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "28218661",
+        "title": "Exploring the Effect of Lactium™ and Zizyphus Complex on Sleep Quality: A Double-Blind, Randomized Placebo-Controlled Trial.",
+        "authors": [
+          "Scholey A",
+          "Benson S",
+          "Gibbs A",
+          "Perry N",
+          "Sarris J",
+          "Murray G"
+        ],
+        "journal": "Nutrients",
+        "year": 2017,
+        "pubDate": "2017 Feb 17",
+        "doi": "10.3390/nu9020154",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "39138397",
+        "title": "Effect of intra-operative Magnesium sulphate on the occurrence of post-operative delirium and insomnia in patients undergoing lumbar fixation: a randomized controlled trial.",
+        "authors": [
+          "Fathy W",
+          "Hussein M",
+          "Elanwar R",
+          "Elmoutaz H",
+          "Abdelsadek DA",
+          "Kassim DY"
+        ],
+        "journal": "BMC Anesthesiol",
+        "year": 2024,
+        "pubDate": "2024 Aug 13",
+        "doi": "10.1186/s12871-024-02579-6",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "36140382",
+        "title": "Serum Magnesium Levels in Patients with Obstructive Sleep Apnoea: A Systematic Review and Meta-Analysis.",
+        "authors": [
+          "Al Wadee Z",
+          "Ooi SL",
+          "Pak SC"
+        ],
+        "journal": "Biomedicines",
+        "year": 2022,
+        "pubDate": "2022 Sep 14",
+        "doi": "10.3390/biomedicines10092273",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "1551289",
+        "title": "Fleroxacin clinical pharmacokinetics.",
+        "authors": [
+          "Stuck AE",
+          "Kim DK",
+          "Frey FJ"
+        ],
+        "journal": "Clin Pharmacokinet",
+        "year": 1992,
+        "pubDate": "1992 Feb",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "41520809",
+        "title": "Integrative approaches to perimenopause.",
+        "authors": [
+          "Kennard A",
+          "Saunders KT"
+        ],
+        "journal": "Am J Med",
+        "year": 2026,
+        "pubDate": "2026 Jan 9",
+        "doi": "pii: S0002-9343(26)00013-6. 10.1016/j.amjmed.2025.12.024",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "34247796",
+        "title": "Effect of oral magnesium supplementation for relieving leg cramps during pregnancy: A meta-analysis of randomized controlled trials.",
+        "authors": [
+          "Liu J",
+          "Song G",
+          "Zhao G",
+          "Meng T"
+        ],
+        "journal": "Taiwan J Obstet Gynecol",
+        "year": 2021,
+        "pubDate": "2021 Jul",
+        "doi": "10.1016/j.tjog.2021.05.006",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "21597902",
+        "title": "The patient with asthma in the emergency department.",
+        "authors": [
+          "Adams JY",
+          "Sutter ME",
+          "Albertson TE"
+        ],
+        "journal": "Clin Rev Allergy Immunol",
+        "year": 2012,
+        "pubDate": "2012 Aug",
+        "doi": "10.1007/s12016-011-8273-z",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "41007810",
+        "title": "Magnesium and Zinc in Schizophrenia.",
+        "authors": [
+          "Nechifor M"
+        ],
+        "journal": "Biomedicines",
+        "year": 2025,
+        "pubDate": "2025 Sep 12",
+        "doi": "10.3390/biomedicines13092249",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "39064758",
+        "title": "Effects of Dietary Supplementation in Patients with Restless Legs Syndrome: A Systematic Review.",
+        "authors": [
+          "González-Parejo P",
+          "Martín-Núñez J",
+          "Cabrera-Martos I",
+          "Valenza MC"
+        ],
+        "journal": "Nutrients",
+        "year": 2024,
+        "pubDate": "2024 Jul 18",
+        "doi": "10.3390/nu16142315",
+        "pubType": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "21715413",
+        "title": "Pharmacological treatment of insomnia in alcohol recovery: a systematic review.",
+        "authors": [
+          "Kolla BP",
+          "Mansukhani MP",
+          "Schneekloth T"
+        ],
+        "journal": "Alcohol Alcohol",
+        "year": 2011,
+        "pubDate": "2011 Sep-Oct",
+        "doi": "10.1093/alcalc/agr073",
+        "pubType": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "24280947",
+        "title": "Effect of magnesium therapy on nocturnal leg cramps: a systematic review of randomized controlled trials with meta-analysis using simulations.",
+        "authors": [
+          "Sebo P",
+          "Cerutti B",
+          "Haller DM"
+        ],
+        "journal": "Fam Pract",
+        "year": 2014,
+        "pubDate": "2014 Feb",
+        "doi": "10.1093/fampra/cmt065",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "29677539",
+        "title": "Fibromyalgia and nutrition: Therapeutic possibilities?",
+        "authors": [
+          "Bjørklund G",
+          "Dadar M",
+          "Chirumbolo S",
+          "Aaseth J"
+        ],
+        "journal": "Biomed Pharmacother",
+        "year": 2018,
+        "pubDate": "2018 Jul",
+        "doi": "10.1016/j.biopha.2018.04.056",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      }
+    ]
+  },
+  "clinicalTrials": {
+    "query": "magnesium AND sleep",
+    "totalResults": 20,
+    "fetchedCount": 20,
+    "studies": [
+      {
+        "nctId": "NCT02655861",
+        "title": "A Multi-center, Prospective Evaluation of Infants and Children With Congenital Ichthyosis",
+        "officialTitle": "Prospective Evaluation of Infants and Children With Congenital Ichthyosis",
+        "status": "TERMINATED",
+        "phase": "N/A",
+        "enrollment": 21,
+        "conditions": [
+          "Ichthyosis"
+        ],
+        "interventions": [
+          {
+            "type": "OTHER",
+            "name": "Observation"
+          }
+        ],
+        "startDate": "2015-06",
+        "completionDate": "2019-06-05"
+      },
+      {
+        "nctId": "NCT06668220",
+        "title": "Effect of Adding Different Concentrations of Dexmedetomidine to Bupivacaine in Caudal Block for Pediatrics",
+        "officialTitle": "Effect of Adding Different Concentrations of Dexmedetomidine to Bupivacaine in Caudal Block for Pediatrics Undergoing Inguinal Hernia Repair",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "PHASE1",
+        "enrollment": 50,
+        "conditions": [
+          "Caudal Block for Postoperative Analgesia"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Dexmedetomidine"
+          },
+          {
+            "type": "DRUG",
+            "name": "Bupivacain"
+          }
+        ],
+        "startDate": "2024-11-20",
+        "completionDate": "2026-10-30"
+      },
+      {
+        "nctId": "NCT05172739",
+        "title": "Opioid Free Anaesthesia-Analgesia Strategy on Surgical Stress and Immunomodulation in Elective VATS-Lobectomy for NSCLC",
+        "officialTitle": "Effect of a Perioperative Opioid Free Anaesthesia-Analgesia (OFA-A) Strategy on Surgical Stress Response and Immunomodulation in Elective VATS Lobectomy for NSCLC Lung Cancer: A Prospective Randomized Study",
+        "status": "RECRUITING",
+        "phase": "PHASE4",
+        "enrollment": 70,
+        "conditions": [
+          "Systemic Inflammatory Response Syndrome",
+          "Postoperative Pain, Acute",
+          "Postoperative Pain, Chronic",
+          "Infections Postoperative",
+          "Opioid Use",
+          "Anesthesia",
+          "Non-small Cell Lung Cancer"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Opioid-Based Anesthesia-Analgesia Strategy"
+          },
+          {
+            "type": "DRUG",
+            "name": "Opioid-free Anesthesia-Analgesia Strategy"
+          }
+        ],
+        "startDate": "2021-10-01",
+        "completionDate": "2026-11-01"
+      },
+      {
+        "nctId": "NCT03063931",
+        "title": "Pain and Magnesium",
+        "officialTitle": "Effect of the Oral Route of Magnesium on Pre and Post-mastectomy on the Post-surgery Pain",
+        "status": "UNKNOWN",
+        "phase": "PHASE2",
+        "enrollment": 100,
+        "conditions": [
+          "Neuropathic Pain Induced by Mastectomy"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Magnesium: Magnésium UPSA Action Continue®"
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo: Lactose"
+          }
+        ],
+        "startDate": "2017-03",
+        "completionDate": "2019-04"
+      },
+      {
+        "nctId": "NCT00833092",
+        "title": "Magnesium Nutrition and Sleep Behavior in Older Adults",
+        "officialTitle": "Magnesium Nutrition and Sleep Behavior in Older Adults",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 111,
+        "conditions": [
+          "Nutritional Deficiency",
+          "Insomnia"
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Sugar Pill"
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "magnesium"
+          }
+        ],
+        "startDate": "2008-01",
+        "completionDate": "2008-12"
+      },
+      {
+        "nctId": "NCT07235878",
+        "title": "12-week Magnesium Supplementation on Peri-menopause Symptoms, Cognition, Sleep, and Psychological Well-being",
+        "officialTitle": "Effects of 12-week Magnesium Supplementation on Peri-menopause Symptoms, Cognition, Sleep and Psychological Wellbeing - a Randomised, Placebo-controlled Trial",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "NA",
+        "enrollment": 58,
+        "conditions": [
+          "Perimenopause",
+          "Perimenopausal Women",
+          "Perimenopause, Climacteric Syndrome"
+        ],
+        "interventions": [
+          {
+            "type": "OTHER",
+            "name": "Placebo"
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Magnesium hydroxide 375mg"
+          }
+        ],
+        "startDate": "2025-11-17",
+        "completionDate": "2026-08-01"
+      },
+      {
+        "nctId": "NCT06355544",
+        "title": "Individual Factors Related to Chronic Low-grade Inflammation and Cardiometabolic Disease Risk",
+        "officialTitle": "Integrative and Personalized Lifestyle Approach to Reduce Low-Grade Inflammation in People at Risk of Cardiometabolic Diseases",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "N/A",
+        "enrollment": 3000,
+        "conditions": [
+          "Overweight",
+          "Obesity",
+          "Metabolic Syndrome",
+          "Healthy",
+          "Low-grade Inflammation",
+          "Normal Weight Adults",
+          "Risk Factor, Cardiovascular",
+          "Hypertension",
+          "Hypercholesterolemia",
+          "Abdominal Obesity",
+          "Metabolically Healthy Controls"
+        ],
+        "interventions": [],
+        "startDate": "2024-04",
+        "completionDate": "2026-06-30"
+      },
+      {
+        "nctId": "NCT05350124",
+        "title": "The Effect of Vitamin C and E Therapy on Restless Leg Syndrome in Patients With End Stage Renal Disease on Haemodialysis",
+        "officialTitle": "The Effect of Vitamin C and E Therapy on Restless Leg Syndrome in Patients With End Stage Renal Disease on Haemodialysis",
+        "status": "UNKNOWN",
+        "phase": "PHASE3",
+        "enrollment": 160,
+        "conditions": [
+          "Restless Legs Syndrome",
+          "End Stage Renal Disease"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Ascorbic acid"
+          },
+          {
+            "type": "DRUG",
+            "name": "Tocopherol"
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo capsule"
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo capsule"
+          }
+        ],
+        "startDate": "2022-11",
+        "completionDate": "2023-12"
+      },
+      {
+        "nctId": "NCT05236504",
+        "title": "Effects of a Novel Supplement on Sleep, Metabolism, Body Composition and Performance",
+        "officialTitle": "Effects of a Novel Melatonin and Magnesium-Containing Pod on Sleep, Metabolism, Body Composition and Performance",
+        "status": "UNKNOWN",
+        "phase": "NA",
+        "enrollment": 35,
+        "conditions": [
+          "Sleep Hygiene",
+          "Sleep Disturbance"
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Melatonin and magnesium-containing pod"
+          },
+          {
+            "type": "OTHER",
+            "name": "Placebo comparator"
+          }
+        ],
+        "startDate": "2021-11-28",
+        "completionDate": "2022-07-30"
+      },
+      {
+        "nctId": "NCT05837104",
+        "title": "Efficacy and Safety of Magnesium Vitamin B6 in First Episode Bipolar Disorder",
+        "officialTitle": "A Randomized, Double-blind, Placebo-controlled Clinical Trial to Assess the Efficacy and Safety of Magnesium Vitamin B6 in Combination With Treatment as Usual in First Episode of Bipolar I Disorder",
+        "status": "RECRUITING",
+        "phase": "PHASE2",
+        "enrollment": 40,
+        "conditions": [
+          "Bipolar I Disorder",
+          "Depression, Anxiety",
+          "Stress"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Magnesium vitamin B6"
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo"
+          }
+        ],
+        "startDate": "2023-12-13",
+        "completionDate": "2026-10"
+      },
+      {
+        "nctId": "NCT00568321",
+        "title": "RN624 For Pain Of Post-Herpetic Neuralgia",
+        "officialTitle": "A PHASE II RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED, MULTICENTER, PARALLEL GROUP, PROOF OF CONCEPT STUDY OF THE ANALGESIC EFFECTS OF RN624 IN ADULT PATIENTS WITH POST-HERPETIC NEURALGIA",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "enrollment": 99,
+        "conditions": [
+          "Neuralgia, Postherpetic"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "RN624"
+          },
+          {
+            "type": "DRUG",
+            "name": "RN624"
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo"
+          }
+        ],
+        "startDate": "2007-12-19",
+        "completionDate": "2009-01-07"
+      },
+      {
+        "nctId": "NCT03128905",
+        "title": "Trial of Colchicine Versus Prednisone for the Treatment of Acute CPPD Arthritis",
+        "officialTitle": "Colchicine or Prednisone for the Treatment of Acute Calcium Pyrophosphate Deposition (CPPD) Arthritis: Open-label, Randomized, Multicenter, Equivalence Trial of Efficacy and Safety",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "enrollment": 111,
+        "conditions": [
+          "Chondrocalcinosis"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Colchicine opocalcium 1mg"
+          },
+          {
+            "type": "DRUG",
+            "name": "Prednisone : Cortancyl 20mg"
+          }
+        ],
+        "startDate": "2018-02-05",
+        "completionDate": "2022-05-13"
+      },
+      {
+        "nctId": "NCT04380142",
+        "title": "Study Comparing Continuous Subcutaneous Infusion Of ABBV-951 With Oral Carbidopa/Levodopa Tablets For Treatment Of Motor Fluctuations In Adult Participants With Advanced Parkinson's Disease",
+        "officialTitle": "A Randomized, Double-Blind, Double-Dummy, Active-Controlled Study Comparing the Efficacy, Safety and Tolerability of ABBV-951 to Oral Carbidopa/Levodopa in Advanced Parkinson's Disease Patients",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "enrollment": 174,
+        "conditions": [
+          "Parkinson's Disease (PD)"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "ABBV-951"
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo for Levodopa/Carbidopa (LD/CD)"
+          },
+          {
+            "type": "DRUG",
+            "name": "Levodopa/Carbidopa (LD/CD)"
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo for ABBV-951"
+          }
+        ],
+        "startDate": "2020-10-19",
+        "completionDate": "2021-09-29"
+      },
+      {
+        "nctId": "NCT06278077",
+        "title": "Neurexan - a Clinical Trial in Short-Term Insomnia Patients",
+        "officialTitle": "Evaluation of the Effects of Neurexan® on Short-Term Insomnia, Daytime Performance and Stress Response by Polysomnography (PSG), Electroencephalogram (EEG), Stress Biomarkers and Patient-Reported Outcomes (PROs)",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "PHASE2",
+        "enrollment": 80,
+        "conditions": [
+          "Insomnia",
+          "Stress Reaction"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Neurexan"
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo"
+          }
+        ],
+        "startDate": "2023-09-06",
+        "completionDate": "2026-01-31"
+      },
+      {
+        "nctId": "NCT04687449",
+        "title": "Curcumin in Management of Chronic Obstructive Pulmonary Disease",
+        "officialTitle": "Curcumin in Management of Chronic Obstructive Pulmonary Disease: A Randomized Controlled Trial (C-COPD Trial)",
+        "status": "UNKNOWN",
+        "phase": "NA",
+        "enrollment": 120,
+        "conditions": [
+          "COPD"
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Curcumin therapy"
+          },
+          {
+            "type": "OTHER",
+            "name": "Placebo"
+          },
+          {
+            "type": "OTHER",
+            "name": "Standard care"
+          }
+        ],
+        "startDate": "2022-01-01",
+        "completionDate": "2023-12-15"
+      },
+      {
+        "nctId": "NCT05358483",
+        "title": "PROspective Study of Mothers' and Infants' Social and Epidemiologic Determinants of Health",
+        "officialTitle": "The PROMISE Study: PROspective Study of Mothers' and Infants' Social and Epidemiologic Determinants of Health",
+        "status": "RECRUITING",
+        "phase": "N/A",
+        "enrollment": 1000,
+        "conditions": [
+          "Infertility, Female"
+        ],
+        "interventions": [],
+        "startDate": "2021-09-07",
+        "completionDate": "2046-12"
+      },
+      {
+        "nctId": "NCT03965182",
+        "title": "Compare Polyethylene Glycol and Sodium Picosulfate Alone or Combined",
+        "officialTitle": "A Head-to-head Comparison Study of Polyethylene Glycol, Polyethylene Glycol Plus Sodium Picosulfate, and Sodium Picosulfate",
+        "status": "UNKNOWN",
+        "phase": "NA",
+        "enrollment": 600,
+        "conditions": [
+          "Bowel Preparation"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "PEG"
+          },
+          {
+            "type": "DRUG",
+            "name": "PEG plus SPMC"
+          },
+          {
+            "type": "DRUG",
+            "name": "SPMC"
+          }
+        ],
+        "startDate": "2019-06-01",
+        "completionDate": "2020-05-31"
+      },
+      {
+        "nctId": "NCT03596762",
+        "title": "A Study of BAY3427080 (NT-814) in the Treatment of Moderate to Severe Post-menopausal Vasomotor Symptoms",
+        "officialTitle": "A Double-Blind, Randomised, Placebo Controlled, Adaptive Design Study of the Efficacy, Safety and Pharmacokinetics of NT-814 in Female Subjects With Moderate to Severe Vasomotor Symptoms Associated With the Menopause",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "enrollment": 199,
+        "conditions": [
+          "Menopause",
+          "Hot Flashes",
+          "Night Waking"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Elinzanetant (BAY3427080)"
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo"
+          }
+        ],
+        "startDate": "2018-11-20",
+        "completionDate": "2019-11-21"
+      },
+      {
+        "nctId": "NCT01965990",
+        "title": "VLCD by Enteral Route for Weight Loss",
+        "officialTitle": "A 2-week Course of Enteral Treatment With a Very Low-calorie Protein-based Formula for the Management of Severe Obesity",
+        "status": "COMPLETED",
+        "phase": "N/A",
+        "enrollment": 364,
+        "conditions": [
+          "Severe Obesity"
+        ],
+        "interventions": [
+          {
+            "type": "OTHER",
+            "name": "NEP"
+          }
+        ],
+        "startDate": "2010-04",
+        "completionDate": "2013-02"
+      },
+      {
+        "nctId": "NCT02250196",
+        "title": "A Randomized Prospective Trial Comparing Low-volume Bowel Preparation Methods",
+        "officialTitle": "A Randomized, Prospective Tiral on Efficacy and Tolerability of Low-volume Bowel Preparation Methods for Colonoscopy",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "enrollment": 200,
+        "conditions": [
+          "Colorectal Cancer",
+          "Colon Adenoma"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "PEG-Asc"
+          },
+          {
+            "type": "DRUG",
+            "name": "SPMC 2"
+          }
+        ],
+        "startDate": "2013-03",
+        "completionDate": "2013-11"
+      }
+    ]
+  }
+}

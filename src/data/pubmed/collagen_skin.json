@@ -1,0 +1,1575 @@
+{
+  "ingredientId": "collagen_skin",
+  "label": "Collagen + Skin Elasticity",
+  "fetchedAt": "2026-02-19T11:30:42.298Z",
+  "pubmed": {
+    "query": "(collagen peptide OR hydrolyzed collagen) AND (skin elasticity OR skin aging OR wrinkle OR cutometry) AND (randomized controlled trial[pt] OR meta-analysis[pt] OR review[pt])",
+    "totalResults": 156,
+    "fetchedCount": 50,
+    "articles": [
+      {
+        "pmid": "33742704",
+        "title": "Effects of hydrolyzed collagen supplementation on skin aging: a systematic review and meta-analysis.",
+        "authors": [
+          "de Miranda RB",
+          "Weimer P",
+          "Rossi RC"
+        ],
+        "journal": "Int J Dermatol",
+        "year": 2021,
+        "pubDate": "2021 Dec",
+        "doi": "10.1111/ijd.15518",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "37432180",
+        "title": "Effects of Oral Collagen for Skin Anti-Aging: A Systematic Review and Meta-Analysis.",
+        "authors": [
+          "Pu SY",
+          "Huang YL",
+          "Pu CM",
+          "Kang YN",
+          "Hoang KD",
+          "Chen KH",
+          "Chen C"
+        ],
+        "journal": "Nutrients",
+        "year": 2023,
+        "pubDate": "2023 Apr 26",
+        "doi": "10.3390/nu15092080",
+        "pubType": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "31627309",
+        "title": "A Collagen Supplement Improves Skin Hydration, Elasticity, Roughness, and Density: Results of a Randomized, Placebo-Controlled, Blind Study.",
+        "authors": [
+          "Bolke L",
+          "Schlippe G",
+          "Gerß J",
+          "Voss W"
+        ],
+        "journal": "Nutrients",
+        "year": 2019,
+        "pubDate": "2019 Oct 17",
+        "doi": "10.3390/nu11102494",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "38192916",
+        "title": "Exploring the Impact of Hydrolyzed Collagen Oral Supplementation on Skin Rejuvenation: A Systematic Review and Meta-Analysis.",
+        "authors": [
+          "Dewi DAR",
+          "Arimuko A",
+          "Norawati L",
+          "Yenny SW",
+          "Setiasih NL",
+          "Perdiyana A",
+          "Arkania N",
+          "Nadhira F",
+          "Wiliantari N"
+        ],
+        "journal": "Cureus",
+        "year": 2023,
+        "pubDate": "2023 Dec",
+        "doi": "10.7759/cureus.50231",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "36206809",
+        "title": "Oral Supplementation and Systemic Drugs for Skin Aging: A Narrative Review.",
+        "authors": [
+          "Morgado-Carrasco D",
+          "Gil-Lianes J",
+          "Jourdain E",
+          "Piquero-Casals J"
+        ],
+        "journal": "Actas Dermosifiliogr",
+        "year": 2023,
+        "pubDate": "2023 Feb",
+        "doi": "10.1016/j.ad.2022.09.014",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng",
+          "spa"
+        ]
+      },
+      {
+        "pmid": "29949889",
+        "title": "Oral Intake of Low-Molecular-Weight Collagen Peptide Improves Hydration, Elasticity, and Wrinkling in Human Skin: A Randomized, Double-Blind, Placebo-Controlled Study.",
+        "authors": [
+          "Kim DU",
+          "Chung HC",
+          "Choi J",
+          "Sakai Y",
+          "Lee BY"
+        ],
+        "journal": "Nutrients",
+        "year": 2018,
+        "pubDate": "2018 Jun 26",
+        "doi": "10.3390/nu10070826",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "26362110",
+        "title": "The effect of oral collagen peptide supplementation on skin moisture and the dermal collagen network: evidence from an ex vivo model and randomized, placebo-controlled clinical trials.",
+        "authors": [
+          "Asserin J",
+          "Lati E",
+          "Shioya T",
+          "Prawitt J"
+        ],
+        "journal": "J Cosmet Dermatol",
+        "year": 2015,
+        "pubDate": "2015 Dec",
+        "doi": "10.1111/jocd.12174",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "24401291",
+        "title": "Oral intake of specific bioactive collagen peptides reduces skin wrinkles and increases dermal matrix synthesis.",
+        "authors": [
+          "Proksch E",
+          "Schunck M",
+          "Zague V",
+          "Segger D",
+          "Degwert J",
+          "Oesser S"
+        ],
+        "journal": "Skin Pharmacol Physiol",
+        "year": 2014,
+        "pubDate": "2014",
+        "doi": "10.1159/000355523",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "29144022",
+        "title": "Collagen: A review on its sources and potential cosmetic applications.",
+        "authors": [
+          "Avila Rodríguez MI",
+          "Rodríguez Barroso LG",
+          "Sánchez ML"
+        ],
+        "journal": "J Cosmet Dermatol",
+        "year": 2018,
+        "pubDate": "2018 Feb",
+        "doi": "10.1111/jocd.12450",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "31036793",
+        "title": "Molecular Mechanisms of Dermal Aging and Antiaging Approaches.",
+        "authors": [
+          "Shin JW",
+          "Kwon SH",
+          "Choi JY",
+          "Na JI",
+          "Huh CH",
+          "Choi HR",
+          "Park KC"
+        ],
+        "journal": "Int J Mol Sci",
+        "year": 2019,
+        "pubDate": "2019 Apr 29",
+        "doi": "10.3390/ijms20092126",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "37064452",
+        "title": "Collagen supplementation in skin and orthopedic diseases: A review of the literature.",
+        "authors": [
+          "Campos LD",
+          "Santos Junior VA",
+          "Pimentel JD",
+          "Carregã GLF",
+          "Cazarin CBB"
+        ],
+        "journal": "Heliyon",
+        "year": 2023,
+        "pubDate": "2023 Apr",
+        "doi": "10.1016/j.heliyon.2023.e14961",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "37822045",
+        "title": "Low-molecular-weight collagen peptides supplement promotes a healthy skin: A randomized, double-blinded, placebo-controlled study.",
+        "authors": [
+          "Seong SH",
+          "Lee YI",
+          "Lee J",
+          "Choi S",
+          "Kim IA",
+          "Suk J",
+          "Jung I",
+          "Baeg C",
+          "Kim J",
+          "Oh D",
+          "Lee JH"
+        ],
+        "journal": "J Cosmet Dermatol",
+        "year": 2024,
+        "pubDate": "2024 Feb",
+        "doi": "10.1111/jocd.16026",
+        "pubType": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "23949208",
+        "title": "Oral supplementation of specific collagen peptides has beneficial effects on human skin physiology: a double-blind, placebo-controlled study.",
+        "authors": [
+          "Proksch E",
+          "Segger D",
+          "Degwert J",
+          "Schunck M",
+          "Zague V",
+          "Oesser S"
+        ],
+        "journal": "Skin Pharmacol Physiol",
+        "year": 2014,
+        "pubDate": "2014",
+        "doi": "10.1159/000351376",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "39143887",
+        "title": "Influence of collagen peptide supplementation on visible signs of skin and nail health and -aging in an East Asian population: A double blind, randomized, placebo-controlled trial.",
+        "authors": [
+          "Vleminckx S",
+          "Virgilio N",
+          "Asserin J",
+          "Prawitt J",
+          "Silva CIF"
+        ],
+        "journal": "J Cosmet Dermatol",
+        "year": 2024,
+        "pubDate": "2024 Nov",
+        "doi": "10.1111/jocd.16458",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "34694676",
+        "title": "Myths and media in oral collagen supplementation for the skin, nails, and hair: A review.",
+        "authors": [
+          "Rustad AM",
+          "Nickles MA",
+          "McKenney JE",
+          "Bilimoria SN",
+          "Lio PA"
+        ],
+        "journal": "J Cosmet Dermatol",
+        "year": 2022,
+        "pubDate": "2022 Feb",
+        "doi": "10.1111/jocd.14567",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "40935395",
+        "title": "Skin Anti-Aging and Moisturizing Effects of Low-Molecular-Weight Collagen Peptide Supplementation in Healthy Adults: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial.",
+        "authors": [
+          "Lee E",
+          "Ahn DK",
+          "Kim JH",
+          "Lee S",
+          "Kim HJ",
+          "Lee HK",
+          "Shin JH"
+        ],
+        "journal": "J Microbiol Biotechnol",
+        "year": 2025,
+        "pubDate": "2025 Sep 11",
+        "doi": "10.4014/jmb.2507.07008",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "26267777",
+        "title": "[An overview of the beneficial effects of hydrolysed collagen intake on joint and bone health and on skin ageing].",
+        "authors": [
+          "Figueres Juher T",
+          "Basés Pérez E"
+        ],
+        "journal": "Nutr Hosp",
+        "year": 2015,
+        "pubDate": "2015 Jul 18",
+        "doi": "10.3305/nh.2015.32.sup1.9482",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "spa"
+        ]
+      },
+      {
+        "pmid": "33358021",
+        "title": "TGFβ Signaling in Photoaging and UV-Induced Skin Cancer.",
+        "authors": [
+          "Ke Y",
+          "Wang XJ"
+        ],
+        "journal": "J Invest Dermatol",
+        "year": 2021,
+        "pubDate": "2021 Apr",
+        "doi": "10.1016/j.jid.2020.11.007",
+        "pubType": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "32436266",
+        "title": "Collagen supplementation for skin health: A mechanistic systematic review.",
+        "authors": [
+          "Barati M",
+          "Jabbari M",
+          "Navekar R",
+          "Farahmand F",
+          "Zeinalian R",
+          "Salehi-Sahlabadi A",
+          "Abbaszadeh N",
+          "Mokari-Yamchi A",
+          "Davoodi SH"
+        ],
+        "journal": "J Cosmet Dermatol",
+        "year": 2020,
+        "pubDate": "2020 Nov",
+        "doi": "10.1111/jocd.13435",
+        "pubType": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "29986520",
+        "title": "Regenerative and Protective Actions of the GHK-Cu Peptide in the Light of the New Gene Data.",
+        "authors": [
+          "Pickart L",
+          "Margolina A"
+        ],
+        "journal": "Int J Mol Sci",
+        "year": 2018,
+        "pubDate": "2018 Jul 7",
+        "doi": "10.3390/ijms19071987",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "31761958",
+        "title": "Topical rapamycin reduces markers of senescence and aging in human skin: an exploratory, prospective, randomized trial.",
+        "authors": [
+          "Chung CL",
+          "Lawrence I",
+          "Hoffman M",
+          "Elgindi D",
+          "Nadhan K",
+          "Potnis M",
+          "Jin A",
+          "Sershon C",
+          "Binnebose R",
+          "Lorenzini A",
+          "Sell C"
+        ],
+        "journal": "Geroscience",
+        "year": 2019,
+        "pubDate": "2019 Dec",
+        "doi": "10.1007/s11357-019-00113-y",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "38009842",
+        "title": "Collagen study advances for photoaging skin.",
+        "authors": [
+          "Liu H",
+          "Dong J",
+          "Du R",
+          "Gao Y",
+          "Zhao P"
+        ],
+        "journal": "Photodermatol Photoimmunol Photomed",
+        "year": 2024,
+        "pubDate": "2024 Jan",
+        "doi": "10.1111/phpp.12931",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "36916504",
+        "title": "Oral intake of collagen peptide NS improves hydration, elasticity, desquamation, and wrinkling in human skin: a randomized, double-blinded, placebo-controlled study.",
+        "authors": [
+          "Lee M",
+          "Kim E",
+          "Ahn H",
+          "Son S",
+          "Lee H"
+        ],
+        "journal": "Food Funct",
+        "year": 2023,
+        "pubDate": "2023 Apr 3",
+        "doi": "10.1039/d2fo02958h",
+        "pubType": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "40498168",
+        "title": "GLP-1RA and the possible skin aging.",
+        "authors": [
+          "Paschou IA",
+          "Sali E",
+          "Paschou SA",
+          "Tsamis KI",
+          "Peppa M",
+          "Psaltopoulou T",
+          "Nicolaidou E",
+          "Stratigos AJ"
+        ],
+        "journal": "Endocrine",
+        "year": 2025,
+        "pubDate": "2025 Sep",
+        "doi": "10.1007/s12020-025-04293-w",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "34382523",
+        "title": "Signal Peptides - Promising Ingredients in Cosmetics.",
+        "authors": [
+          "Skibska A",
+          "Perlikowska R"
+        ],
+        "journal": "Curr Protein Pept Sci",
+        "year": 2021,
+        "pubDate": "2021",
+        "doi": "10.2174/1389203722666210812121129",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "25660807",
+        "title": "Role of Age-Associated Alterations of the Dermal Extracellular Matrix Microenvironment in Human Skin Aging: A Mini-Review.",
+        "authors": [
+          "Quan T",
+          "Fisher GJ"
+        ],
+        "journal": "Gerontology",
+        "year": 2015,
+        "pubDate": "2015",
+        "doi": "10.1159/000371708",
+        "pubType": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "32799362",
+        "title": "A randomized, triple-blind, placebo-controlled, parallel study to evaluate the efficacy of a freshwater marine collagen on skin wrinkles and elasticity.",
+        "authors": [
+          "Evans M",
+          "Lewis ED",
+          "Zakaria N",
+          "Pelipyagina T",
+          "Guthrie N"
+        ],
+        "journal": "J Cosmet Dermatol",
+        "year": 2021,
+        "pubDate": "2021 Mar",
+        "doi": "10.1111/jocd.13676",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "38667776",
+        "title": "Unlocking the Therapeutic Potential of Marine Collagen: A Scientific Exploration for Delaying Skin Aging.",
+        "authors": [
+          "Rahman A",
+          "Rehmani R",
+          "Pirvu DG",
+          "Huang SM",
+          "Puri S",
+          "Arcos M"
+        ],
+        "journal": "Mar Drugs",
+        "year": 2024,
+        "pubDate": "2024 Mar 30",
+        "doi": "10.3390/md22040159",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "26840887",
+        "title": "Ingestion of bioactive collagen hydrolysates enhance facial skin moisture and elasticity and reduce facial ageing signs in a randomised double-blind placebo-controlled clinical study.",
+        "authors": [
+          "Inoue N",
+          "Sugihara F",
+          "Wang X"
+        ],
+        "journal": "J Sci Food Agric",
+        "year": 2016,
+        "pubDate": "2016 Sep",
+        "doi": "10.1002/jsfa.7606",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "36516059",
+        "title": "Oral Supplementation of Low-Molecular-Weight Collagen Peptides Reduces Skin Wrinkles and Improves Biophysical Properties of Skin: A Randomized, Double-Blinded, Placebo-Controlled Study.",
+        "authors": [
+          "Kim J",
+          "Lee SG",
+          "Lee J",
+          "Choi S",
+          "Suk J",
+          "Lee JH",
+          "Yang JH",
+          "Yang JS",
+          "Kim J"
+        ],
+        "journal": "J Med Food",
+        "year": 2022,
+        "pubDate": "2022 Dec",
+        "doi": "10.1089/jmf.2022.K.0097",
+        "pubType": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "35049916",
+        "title": "Marine Collagen: A Promising Biomaterial for Wound Healing, Skin Anti-Aging, and Bone Regeneration.",
+        "authors": [
+          "Geahchan S",
+          "Baharlouei P",
+          "Rahman A"
+        ],
+        "journal": "Mar Drugs",
+        "year": 2022,
+        "pubDate": "2022 Jan 10",
+        "doi": "10.3390/md20010061",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "34443468",
+        "title": "Oral Supplementation with Hydrolyzed Fish Cartilage Improves the Morphological and Structural Characteristics of the Skin: A Double-Blind, Placebo-Controlled Clinical Study.",
+        "authors": [
+          "Maia Campos PMBG",
+          "Franco RSB",
+          "Kakuda L",
+          "Cadioli GF",
+          "Costa GMD",
+          "Bouvret E"
+        ],
+        "journal": "Molecules",
+        "year": 2021,
+        "pubDate": "2021 Aug 12",
+        "doi": "10.3390/molecules26164880",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "30122200",
+        "title": "Daily oral supplementation with collagen peptides combined with vitamins and other bioactive compounds improves skin elasticity and has a beneficial effect on joint and general wellbeing.",
+        "authors": [
+          "Czajka A",
+          "Kania EM",
+          "Genovese L",
+          "Corbo A",
+          "Merone G",
+          "Luci C",
+          "Sibilla S"
+        ],
+        "journal": "Nutr Res",
+        "year": 2018,
+        "pubDate": "2018 Sep",
+        "doi": "10.1016/j.nutres.2018.06.001",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "38534748",
+        "title": "Use of Collagen in Cosmetic Products.",
+        "authors": [
+          "Jadach B",
+          "Mielcarek Z",
+          "Osmałek T"
+        ],
+        "journal": "Curr Issues Mol Biol",
+        "year": 2024,
+        "pubDate": "2024 Mar 4",
+        "doi": "10.3390/cimb46030132",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "34715138",
+        "title": "Collagen-based formulations for wound healing: A literature review.",
+        "authors": [
+          "Sharma S",
+          "Rai VK",
+          "Narang RK",
+          "Markandeywar TS"
+        ],
+        "journal": "Life Sci",
+        "year": 2022,
+        "pubDate": "2022 Feb 1",
+        "doi": "10.1016/j.lfs.2021.120096",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "26236730",
+        "title": "GHK Peptide as a Natural Modulator of Multiple Cellular Pathways in Skin Regeneration.",
+        "authors": [
+          "Pickart L",
+          "Vasquez-Soltero JM",
+          "Margolina A"
+        ],
+        "journal": "Biomed Res Int",
+        "year": 2015,
+        "pubDate": "2015",
+        "doi": "10.1155/2015/648108",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "39858482",
+        "title": "Peptides: Emerging Candidates for the Prevention and Treatment of Skin Senescence: A Review.",
+        "authors": [
+          "Pintea A",
+          "Manea A",
+          "Pintea C",
+          "Vlad RA",
+          "Bîrsan M",
+          "Antonoaea P",
+          "Rédai EM",
+          "Ciurba A"
+        ],
+        "journal": "Biomolecules",
+        "year": 2025,
+        "pubDate": "2025 Jan 9",
+        "doi": "10.3390/biom15010088",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "39963574",
+        "title": "Topically applied GHK as an anti-wrinkle peptide: Advantages, problems and prospective.",
+        "authors": [
+          "Mortazavi SM",
+          "Mohammadi Vadoud SA",
+          "Moghimi HR"
+        ],
+        "journal": "Bioimpacts",
+        "year": 2025,
+        "pubDate": "2025",
+        "doi": "10.34172/bi.30071",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "29521032",
+        "title": "Collagen from Marine Biological Sources and Medical Applications.",
+        "authors": [
+          "Felician FF",
+          "Xia C",
+          "Qi W",
+          "Xu H"
+        ],
+        "journal": "Chem Biodivers",
+        "year": 2018,
+        "pubDate": "2018 May",
+        "doi": "10.1002/cbdv.201700557",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "35427427",
+        "title": "Potential application of Spirulinain dermatology.",
+        "authors": [
+          "Ikeda IK",
+          "Sydney EB",
+          "Sydney ACN"
+        ],
+        "journal": "J Cosmet Dermatol",
+        "year": 2022,
+        "pubDate": "2022 Oct",
+        "doi": "10.1111/jocd.14997",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "18291307",
+        "title": "Nutritargeting.",
+        "authors": [
+          "Biesalski HK",
+          "Tinz J"
+        ],
+        "journal": "Adv Food Nutr Res",
+        "year": 2008,
+        "pubDate": "2008",
+        "doi": "10.1016/S1043-4526(07)00005-8",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "25865925",
+        "title": "Microneedle applications in improving skin appearance.",
+        "authors": [
+          "McCrudden MT",
+          "McAlister E",
+          "Courtenay AJ",
+          "González-Vázquez P",
+          "Singh TR",
+          "Donnelly RF"
+        ],
+        "journal": "Exp Dermatol",
+        "year": 2015,
+        "pubDate": "2015 Aug",
+        "doi": "10.1111/exd.12723",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "21535443",
+        "title": "Topically applied KTTKS: a review.",
+        "authors": [
+          "Abu Samah NH",
+          "Heard CM"
+        ],
+        "journal": "Int J Cosmet Sci",
+        "year": 2011,
+        "pubDate": "2011 Dec",
+        "doi": "10.1111/j.1468-2494.2011.00657.x",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "32098294",
+        "title": "Collagen Hydrolysates for Skin Protection: Oral Administration and Topical Formulation.",
+        "authors": [
+          "Aguirre-Cruz G",
+          "León-López A",
+          "Cruz-Gómez V",
+          "Jiménez-Alvarado R",
+          "Aguirre-Álvarez G"
+        ],
+        "journal": "Antioxidants (Basel)",
+        "year": 2020,
+        "pubDate": "2020 Feb 22",
+        "doi": "10.3390/antiox9020181",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "38612608",
+        "title": "Research Progress on Bioactive Factors against Skin Aging.",
+        "authors": [
+          "He X",
+          "Gao X",
+          "Guo Y",
+          "Xie W"
+        ],
+        "journal": "Int J Mol Sci",
+        "year": 2024,
+        "pubDate": "2024 Mar 28",
+        "doi": "10.3390/ijms25073797",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "22189344",
+        "title": "Venous leg ulcers.",
+        "authors": [
+          "Nelson EA"
+        ],
+        "journal": "BMJ Clin Evid",
+        "year": 2011,
+        "pubDate": "2011 Dec 21",
+        "doi": "pii: 1902",
+        "pubType": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "18045360",
+        "title": "Endogenous growth factors as cosmeceuticals.",
+        "authors": [
+          "Mehta RC",
+          "Fitzpatrick RE"
+        ],
+        "journal": "Dermatol Ther",
+        "year": 2007,
+        "pubDate": "2007 Sep-Oct",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "39203946",
+        "title": "Macrofungal Extracts as a Source of Bioactive Compounds for Cosmetical Anti-Aging Therapy: A Comprehensive Review.",
+        "authors": [
+          "Paterska M",
+          "Czerny B",
+          "Cielecka-Piontek J"
+        ],
+        "journal": "Nutrients",
+        "year": 2024,
+        "pubDate": "2024 Aug 22",
+        "doi": "10.3390/nu16162810",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "38201966",
+        "title": "Skin Anti-Aging Efficacy of Enzyme-Treated Supercritical Caviar Extract: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial.",
+        "authors": [
+          "Na GH",
+          "Kim S",
+          "Jung HM",
+          "Han SH",
+          "Han J",
+          "Koo YK"
+        ],
+        "journal": "Nutrients",
+        "year": 2023,
+        "pubDate": "2023 Dec 30",
+        "doi": "10.3390/nu16010137",
+        "pubType": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "37452901",
+        "title": "Effect of stem cell secretome in skin rejuvenation: a narrative review.",
+        "authors": [
+          "Hani R",
+          "Khayat L",
+          "Rahman AA",
+          "Alaaeddine N"
+        ],
+        "journal": "Mol Biol Rep",
+        "year": 2023,
+        "pubDate": "2023 Sep",
+        "doi": "10.1007/s11033-023-08622-y",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      }
+    ]
+  },
+  "clinicalTrials": {
+    "query": "collagen AND skin elasticity",
+    "totalResults": 20,
+    "fetchedCount": 20,
+    "studies": [
+      {
+        "nctId": "NCT07379216",
+        "title": "Efficacy Evaluation Study of Vitamin C and Glutathione Liquid Sachet",
+        "officialTitle": "Efficacy Evaluation Study of Vitamin C and Glutathione Liquid Sachet",
+        "status": "RECRUITING",
+        "phase": "NA",
+        "enrollment": 30,
+        "conditions": [
+          "Skin Condition",
+          "Anti-Oxidative Stress"
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Placebo sachet"
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Vitamin C and Glutathione Liquid Sachet"
+          }
+        ],
+        "startDate": "2026-01-24",
+        "completionDate": "2026-06-01"
+      },
+      {
+        "nctId": "NCT04988412",
+        "title": "The Effect of 12-week Dietary Intake of Food Supplements Containing Collagen on Dermis Density and Other Skin Parameters",
+        "officialTitle": "The Effect of 12-week Dietary Intake of Food Supplements Containing Collagen on Dermis Density and Other Skin Parameters: Double Blind, Placebo-controlled, Randomised Four-way Study Comparing the Efficacy of Three Test Products",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 109,
+        "conditions": [
+          "Dermis Density",
+          "Wrinkles",
+          "Skin Hydration",
+          "Trans Epidermal Water Loss (TEWL)",
+          "Dermis Thickness",
+          "Skin Texture",
+          "Skin Elasticity"
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Investigational product 1"
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Placebo syrup"
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Investigational product 2"
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Investigational product 3"
+          }
+        ],
+        "startDate": "2021-10-11",
+        "completionDate": "2022-04-21"
+      },
+      {
+        "nctId": "NCT04559022",
+        "title": "Pilot Study Investigating the Efficacy of Fat Grafting as a Treatment for Male and Female Facial Acne Scarring",
+        "officialTitle": "Pilot Study Investigating the Efficacy of Fat Grafting as a Treatment for Male and Female Facial Acne Scarring",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 10,
+        "conditions": [
+          "Acne Scars - Mixed Atrophic and Hypertrophic",
+          "Acne"
+        ],
+        "interventions": [
+          {
+            "type": "PROCEDURE",
+            "name": "Fat Grafting"
+          }
+        ],
+        "startDate": "2020-10-30",
+        "completionDate": "2022-12-14"
+      },
+      {
+        "nctId": "NCT07130357",
+        "title": "The Effect of Collagen Scaffold Augmentation in Achilles Tendon Rupture Repair",
+        "officialTitle": "Prospective Multi-Centre Randomised Controlled Trial on the Effect of Collagen Scaffold Augmentation in Achilles Tendon Rupture Repair",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "NA",
+        "enrollment": 48,
+        "conditions": [
+          "Achilles Tendon Rupture"
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "Collagen Scaffold"
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "Achilles tendon repair"
+          }
+        ],
+        "startDate": "2025-08-15",
+        "completionDate": "2027-12-31"
+      },
+      {
+        "nctId": "NCT01994616",
+        "title": "Prospective Evaluation of the Use of Intralesional Cryotherapy for Treatment of Keloid and Hypertrophic Scars",
+        "officialTitle": "Intralesional Cryotherapy for Treatment of Keloid Scars: a Prospective Evaluation",
+        "status": "COMPLETED",
+        "phase": "N/A",
+        "enrollment": 30,
+        "conditions": [
+          "Keloid",
+          "Cicatrix, Hypertrophic"
+        ],
+        "interventions": [
+          {
+            "type": "PROCEDURE",
+            "name": "Intralesional cryotherapy"
+          }
+        ],
+        "startDate": "2009-01",
+        "completionDate": "2011-06"
+      },
+      {
+        "nctId": "NCT00744939",
+        "title": "Risk of Nephrogenic Systemic Fibrosis (NSF) in Patients With Moderate Renal Insufficiency After the Administration of Magnevist",
+        "officialTitle": "Prospective Non-randomized Observational (Pharmacoepidemiologic) Cohort Study (Open-label, Multicenter) to Assess the Magnitude of Potential Risk With the Administration of Magnevist® Injection in Patients With Moderate Renal Impairment for the Development of Nephrogenic Systemic Fibrosis (NSF) Based on Diagnostically Specific Clinical and Histopathologic Information.",
+        "status": "COMPLETED",
+        "phase": "N/A",
+        "enrollment": 168,
+        "conditions": [
+          "Fibrosis",
+          "Kidney Failure",
+          "Renal Insufficiency"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Gadopentetate dimeglumine (Magnevist, BAY86-4882)"
+          }
+        ],
+        "startDate": "2008-11",
+        "completionDate": "2013-11"
+      },
+      {
+        "nctId": "NCT05913102",
+        "title": "A Prospective, Split-face, Randomized Study of the Poly-D, L Lactic Acid (PDLLA) for Photoaged Skin",
+        "officialTitle": "A Prospective, Split-face, Randomized Study of the Poly-D, L Lactic Acid (PDLLA) for Photoaged Skin",
+        "status": "UNKNOWN",
+        "phase": "NA",
+        "enrollment": 40,
+        "conditions": [
+          "Pigmentation",
+          "Pigmentation Disorder"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "PDLLA"
+          }
+        ],
+        "startDate": "2022-09-28",
+        "completionDate": "2023-12-31"
+      },
+      {
+        "nctId": "NCT03507036",
+        "title": "Radio Frequency Microneedling for Suprapatellar Skin",
+        "officialTitle": "Pilot Study: Clinical Assessment of Bipolar Radiofrequency Microneedling for Improved Laxity and Wrinkles of the Suprapatellar Skin",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 20,
+        "conditions": [
+          "Skin Laxity"
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "Profound system"
+          }
+        ],
+        "startDate": "2018-03-15",
+        "completionDate": "2019-05-01"
+      },
+      {
+        "nctId": "NCT04456829",
+        "title": "Investigation of the Efficacies of a Resveratrol Formula on Improvement of Skin Conditions and Inflammatory Related Factors",
+        "officialTitle": "Investigation of the Efficacies of a Resveratrol Formula on Improvement of Skin",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 60,
+        "conditions": [
+          "Skin Conditions",
+          "Proinflammatory Cytokines"
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Resveratrol drink"
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Placebo drink"
+          }
+        ],
+        "startDate": "2020-09-17",
+        "completionDate": "2020-12-31"
+      },
+      {
+        "nctId": "NCT03505684",
+        "title": "Effect of Oral Collagen Tripeptide on Skin Moisture and Wrinkles in Adult Women",
+        "officialTitle": "Effect of Oral Collagen Tripeptide on Skin Moisture and Wrinkles in Adult Women",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 84,
+        "conditions": [
+          "Skin Manifestations",
+          "Skin Wrinkling"
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "CTP"
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "placebo (starch)"
+          }
+        ],
+        "startDate": "2017-12-24",
+        "completionDate": "2018-07-30"
+      },
+      {
+        "nctId": "NCT05028816",
+        "title": "Force Modulating Tissue Bridges for Closure of Vertical Scars in Breast Reduction",
+        "officialTitle": "Force Modulating Tissue Bridges for Closure of Vertical Scars in Breast Reduction",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 39,
+        "conditions": [
+          "Surgical Incision"
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "Side 1: Final layer closure with force modulating tissue bridges (FMTB)"
+          },
+          {
+            "type": "OTHER",
+            "name": "Side 1: Final layer dermal closure with poliglecaprone 25 suture"
+          },
+          {
+            "type": "DEVICE",
+            "name": "Side 2: Final layer closure with force modulating tissue bridges (FMTB)"
+          },
+          {
+            "type": "OTHER",
+            "name": "Side 2: Final layer dermal closure with poliglecaprone 25 suture"
+          }
+        ],
+        "startDate": "2021-10-05",
+        "completionDate": "2024-12-01"
+      },
+      {
+        "nctId": "NCT05309161",
+        "title": "Efficacy Testing of Crassocephalum Rabens Extract Capsules",
+        "officialTitle": "Efficacy Testing of Crassocephalum Rabens Extract Capsules",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 40,
+        "conditions": [
+          "Aging"
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Crassocephalum rabens extract"
+          }
+        ],
+        "startDate": "2022-03-14",
+        "completionDate": "2022-06-30"
+      },
+      {
+        "nctId": "NCT02107157",
+        "title": "Clinical and Histological Evaluation of the Picosure 755nm Laser With Cap Array for Facial Rejuvenation",
+        "officialTitle": "Clinical and Histological Evaluation of the Picosure 755nm Laser With Cap Array for Facial Rejuvenation",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 27,
+        "conditions": [
+          "Facial Rejuvenation"
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "755nm Laser with Cap Array"
+          }
+        ],
+        "startDate": "2013-07",
+        "completionDate": "2015-06"
+      },
+      {
+        "nctId": "NCT06074302",
+        "title": "Hyaluronic Filler for Improvement of Radial Cheek Lines",
+        "officialTitle": "Use of a Hyaluronic Acid Filler (Resilient Hyaluronic Acid [RHA] Redensity) for Improvement of Radial Cheek Lines",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 20,
+        "conditions": [
+          "Aging"
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "RHA Redensity"
+          }
+        ],
+        "startDate": "2023-11-01",
+        "completionDate": "2024-11-01"
+      },
+      {
+        "nctId": "NCT06899958",
+        "title": "Metabolism Enhancement by Laser Therapy",
+        "officialTitle": "Metabolism Enhancement by Laser Therapy",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "NA",
+        "enrollment": 15,
+        "conditions": [
+          "Metabolism Disorder"
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "Fractional Laser"
+          }
+        ],
+        "startDate": "2027-01-01",
+        "completionDate": "2029-12-31"
+      },
+      {
+        "nctId": "NCT06971029",
+        "title": "IMPACT OF SUPPLEMENTATION WITH LOW MOLECULAR WEIGHT HYDROLYZED COLLAGEN AND VERISOL ON THE EXPRESSION OF LINES, SKIN QUALITY, AND LEVELS OF KLOTHO, VEGF, AND TGF-BETA IN THE EYE REGION",
+        "officialTitle": "Effects Of Supplementation With New Technology for Obtaining Low Molecular Weight Hydrolyzed Collagen Vs. Verisol Collagen on Expression Lines, Skin Quality in the Orbicularis Oculi Region, And Serum Levels of Klotho, VEGF, and TGF-Beta",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "PHASE4",
+        "enrollment": 150,
+        "conditions": [
+          "Skin Health",
+          "Collagen Supplementation",
+          "Growth Factors"
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Supplementation with Verisol®"
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Supplementation with Peptech® 2.5G"
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Supplementation with Peptech® 10.0G"
+          },
+          {
+            "type": "DIAGNOSTIC_TEST",
+            "name": "Control group"
+          }
+        ],
+        "startDate": "2025-06-09",
+        "completionDate": "2025-12"
+      },
+      {
+        "nctId": "NCT06579742",
+        "title": "A Clinical Trial to Examine the Efficacy of a Supplement to Support Healthy Hair and Skin",
+        "officialTitle": "A Clinical Trial to Examine the Efficacy of a Supplement to Support Healthy Hair and Skin",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "NA",
+        "enrollment": 50,
+        "conditions": [
+          "Hair Thinning",
+          "Hair Loss"
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Live Conscious Beyond Collagen"
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Placebo"
+          }
+        ],
+        "startDate": "2024-06-07",
+        "completionDate": "2024-12-31"
+      },
+      {
+        "nctId": "NCT06336473",
+        "title": "Evaluation of the Effects of Cross Linking on the Biomechanical Characteristics of Skin Samples From Patients With Classic or Hypermobile Ehlers-Danlos Syndrome",
+        "officialTitle": "Evaluation of the Effects of Cross Linking on the Biomechanical Characteristics of Skin Samples From Patients With Classic or Hypermobile Ehlers-Danlos Syndrome",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "NA",
+        "enrollment": 28,
+        "conditions": [
+          "Ehlers-Danlos Syndrome"
+        ],
+        "interventions": [
+          {
+            "type": "PROCEDURE",
+            "name": "skin biopsy"
+          }
+        ],
+        "startDate": "2024-09-03",
+        "completionDate": "2025-07-31"
+      },
+      {
+        "nctId": "NCT02591537",
+        "title": "OxyGenesys Dissolved Oxygen Dressing; Abdominoplasty at Northwestern University",
+        "officialTitle": "Prospective, Randomized, Single Center, Controlled Evaluation of the Effectiveness of OxyGenesys Topical Dissolved Oxygen Dressing in Accelerating the Healing of Split Thickness Skin Graft Donor Sites Using the NWU Abdominoplasty Scar Model",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 8,
+        "conditions": [
+          "Wounds"
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "OxyGenesys Dissolved Oxygen Dressing"
+          }
+        ],
+        "startDate": "2015-10",
+        "completionDate": "2016-09"
+      },
+      {
+        "nctId": "NCT04648995",
+        "title": "TheTreatment of Acne Scar Using UltraPulse CO2 Laser",
+        "officialTitle": "A Single-Blinded Split Face Prospective Study Comparing Different Energy, Efficacy, and Safety of UltraPulse CO2 Laser in the Treatment of Acne Scar Using Antera Quantitative 3D Image Analysis",
+        "status": "UNKNOWN",
+        "phase": "NA",
+        "enrollment": 20,
+        "conditions": [
+          "Acne Scar"
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "High energy (UltraPulse)"
+          },
+          {
+            "type": "DEVICE",
+            "name": "Low energy (UltraPulse)"
+          }
+        ],
+        "startDate": "2020-12-11",
+        "completionDate": "2021-11-28"
+      }
+    ]
+  }
+}

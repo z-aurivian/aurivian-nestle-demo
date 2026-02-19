@@ -3,7 +3,6 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { Send, Bot, User, Loader, RotateCcw, AlertCircle, ArrowLeft } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import { getDemoContext } from './data/demoData';
 import { askAuri, keywordFallback } from './api/auriApi';
 
 function AuriChat() {
@@ -12,7 +11,6 @@ function AuriChat() {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
   const messagesEndRef = useRef(null);
-  const demoContext = getDemoContext();
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -44,7 +42,7 @@ function AuriChat() {
       setMessages((prev) => [...prev, { role: 'assistant', content: response }]);
     } catch (err) {
       setError(err?.message || 'Unable to reach the assistant. Please try again.');
-      const fallback = keywordFallback(userMessage, demoContext);
+      const fallback = keywordFallback(userMessage);
       setMessages((prev) => [...prev, { role: 'assistant', content: fallback }]);
     } finally {
       setIsLoading(false);

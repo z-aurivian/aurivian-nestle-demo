@@ -1,0 +1,13 @@
+{
+  "fetchedAt": "2026-02-19T11:30:42.308Z",
+  "ingredients": [
+    {
+      "id": "collagen_skin",
+      "label": "Collagen + Skin Elasticity",
+      "pubmedArticles": 50,
+      "pubmedTotal": 156,
+      "trials": 20,
+      "trialsTotal": 20
+    }
+  ]
+}

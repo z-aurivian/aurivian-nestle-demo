@@ -1,0 +1,1381 @@
+{
+  "ingredientId": "red_clover_menopause",
+  "label": "Red Clover + Menopause",
+  "fetchedAt": "2026-02-19T11:30:39.860Z",
+  "pubmed": {
+    "query": "(red clover OR Trifolium pratense OR isoflavone) AND (menopause OR \"hot flash\" OR \"vasomotor\" OR Kupperman) AND (randomized controlled trial[pt] OR meta-analysis[pt] OR review[pt])",
+    "totalResults": 923,
+    "fetchedCount": 50,
+    "articles": [
+      {
+        "pmid": "33920485",
+        "title": "Evaluation of Clinical Meaningfulness of Red Clover (Trifolium pratense L.) Extract to Relieve Hot Flushes and Menopausal Symptoms in Peri- and Post-Menopausal Women: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+        "authors": [
+          "Kanadys W",
+          "Barańska A",
+          "Błaszczuk A",
+          "Polz-Dacewicz M",
+          "Drop B",
+          "Kanecki K",
+          "Malm M"
+        ],
+        "journal": "Nutrients",
+        "year": 2021,
+        "pubDate": "2021 Apr 11",
+        "doi": "10.3390/nu13041258",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "33809928",
+        "title": "Utilization of Isoflavones in Soybeans for Women with Menopausal Syndrome: An Overview.",
+        "authors": [
+          "Chen LR",
+          "Chen KH"
+        ],
+        "journal": "Int J Mol Sci",
+        "year": 2021,
+        "pubDate": "2021 Mar 22",
+        "doi": "10.3390/ijms22063212",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "25263312",
+        "title": "Efficacy of phytoestrogens for menopausal symptoms: a meta-analysis and systematic review.",
+        "authors": [
+          "Chen MN",
+          "Lin CC",
+          "Liu CF"
+        ],
+        "journal": "Climacteric",
+        "year": 2015,
+        "pubDate": "2015 Apr",
+        "doi": "10.3109/13697137.2014.966241",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "39433088",
+        "title": "Effect of Soy Isoflavones on Measures of Estrogenicity: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+        "authors": [
+          "Viscardi G",
+          "Back S",
+          "Ahmed A",
+          "Yang S",
+          "Mejia SB",
+          "Zurbau A",
+          "Khan TA",
+          "Selk A",
+          "Messina M",
+          "Kendall CW",
+          "Jenkins DJ",
+          "Sievenpiper JL",
+          "Chiavaroli L"
+        ],
+        "journal": "Adv Nutr",
+        "year": 2025,
+        "pubDate": "2025 Jan",
+        "doi": "10.1016/j.advnut.2024.100327",
+        "pubType": [
+          "Journal Article",
+          "Systematic Review",
+          "Meta-Analysis"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "31689947",
+        "title": "Isoflavone Supplements for Menopausal Women: A Systematic Review.",
+        "authors": [
+          "Chen LR",
+          "Ko NY",
+          "Chen KH"
+        ],
+        "journal": "Nutrients",
+        "year": 2019,
+        "pubDate": "2019 Nov 4",
+        "doi": "10.3390/nu11112649",
+        "pubType": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "22972105",
+        "title": "Black cohosh (Cimicifuga spp.) for menopausal symptoms.",
+        "authors": [
+          "Leach MJ",
+          "Moore V"
+        ],
+        "journal": "Cochrane Database Syst Rev",
+        "year": 2012,
+        "pubDate": "2012 Sep 12",
+        "doi": "10.1002/14651858.CD007244.pub2",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "40718787",
+        "title": "Effects of soy isoflavones on menopausal symptoms in perimenopausal women: a systematic review and meta-analysis.",
+        "authors": [
+          "Luan H",
+          "Liu Q",
+          "Guo Y",
+          "Fan H",
+          "A S",
+          "Lin J"
+        ],
+        "journal": "PeerJ",
+        "year": 2025,
+        "pubDate": "2025",
+        "doi": "10.7717/peerj.19715",
+        "pubType": [
+          "Journal Article",
+          "Systematic Review",
+          "Meta-Analysis"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "12031439",
+        "title": "Genistein.",
+        "authors": [
+          "Dixon RA",
+          "Ferreira D"
+        ],
+        "journal": "Phytochemistry",
+        "year": 2002,
+        "pubDate": "2002 Jun",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "40131516",
+        "title": "Assessing the combined effects of Black Cohosh, Soy Isoflavones, and SDG Lignans on menopausal symptoms: a randomized, double-blind, placebo-controlled clinical trial.",
+        "authors": [
+          "Pokushalov E",
+          "Ponomarenko A",
+          "Garcia C",
+          "Kasimova L",
+          "Pak I",
+          "Shrainer E",
+          "Romanova A",
+          "Kudlay D",
+          "Johnson M",
+          "Miller R"
+        ],
+        "journal": "Eur J Nutr",
+        "year": 2025,
+        "pubDate": "2025 Mar 25",
+        "doi": "10.1007/s00394-025-03588-y",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "12787551",
+        "title": "Phyto-oestrogens.",
+        "authors": [
+          "Duncan AM",
+          "Phipps WR",
+          "Kurzer MS"
+        ],
+        "journal": "Best Pract Res Clin Endocrinol Metab",
+        "year": 2003,
+        "pubDate": "2003 Jun",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "30304316",
+        "title": "Isoflavones in gynecology.",
+        "authors": [
+          "Carbonel AAF",
+          "Simões RS",
+          "Girão JHC",
+          "Sasso GRDS",
+          "Bertoncini CRA",
+          "Sorpreso ICE",
+          "Soares Junior JM",
+          "Simões MJ",
+          "Baracat EC"
+        ],
+        "journal": "Rev Assoc Med Bras (1992)",
+        "year": 2018,
+        "pubDate": "2018 Jun",
+        "doi": "10.1590/1806-9282.64.06.560",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "14621333",
+        "title": "Alternatives to estrogen.",
+        "authors": [
+          "Fitzpatrick LA"
+        ],
+        "journal": "Med Clin North Am",
+        "year": 2003,
+        "pubDate": "2003 Sep",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "35745197",
+        "title": "Role of Phytoestrogen-Rich Bioactive Substances (Linum usitatissimum L., Glycine max L., Trifolium pratense L.) in Cardiovascular Disease Prevention in Postmenopausal Women: A Systematic Review and Meta-Analysis.",
+        "authors": [
+          "Błaszczuk A",
+          "Barańska A",
+          "Kanadys W",
+          "Malm M",
+          "Jach ME",
+          "Religioni U",
+          "Wróbel R",
+          "Herda J",
+          "Polz-Dacewicz M"
+        ],
+        "journal": "Nutrients",
+        "year": 2022,
+        "pubDate": "2022 Jun 14",
+        "doi": "10.3390/nu14122467",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "11907938",
+        "title": "Phytoestrogens and the menopause.",
+        "authors": [
+          "Mackey R",
+          "Eden J"
+        ],
+        "journal": "Climacteric",
+        "year": 1998,
+        "pubDate": "1998 Dec",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "10948439",
+        "title": "Managing menopausal problems.",
+        "authors": [
+          "Cobleigh MA"
+        ],
+        "journal": "Cancer Treat Res",
+        "year": 2000,
+        "pubDate": "2000",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "31883666",
+        "title": "Effects of red clover (Trifolium pratense) isoflavones on the lipid profile of perimenopausal and postmenopausal women-A systematic review and meta-analysis.",
+        "authors": [
+          "Kanadys W",
+          "Baranska A",
+          "Jedrych M",
+          "Religioni U",
+          "Janiszewska M"
+        ],
+        "journal": "Maturitas",
+        "year": 2020,
+        "pubDate": "2020 Feb",
+        "doi": "10.1016/j.maturitas.2019.11.001",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "29189602",
+        "title": "The history and basic science development of soy isoflavones.",
+        "authors": [
+          "Setchell KDR"
+        ],
+        "journal": "Menopause",
+        "year": 2017,
+        "pubDate": "2017 Dec",
+        "doi": "10.1097/GME.0000000000001018",
+        "pubType": [
+          "Historical Article",
+          "Lecture",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "9467531",
+        "title": "Clinical review 92: Phytoestrogens.",
+        "authors": [
+          "Murkies AL",
+          "Wilcox G",
+          "Davis SR"
+        ],
+        "journal": "J Clin Endocrinol Metab",
+        "year": 1998,
+        "pubDate": "1998 Feb",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "10384814",
+        "title": "Phytoestrogens and the menopause.",
+        "authors": [
+          "Eden J"
+        ],
+        "journal": "Baillieres Clin Endocrinol Metab",
+        "year": 1998,
+        "pubDate": "1998 Dec",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "16987456",
+        "title": "[Isoflavones in menopause women].",
+        "authors": [
+          "Gris Martínez JM"
+        ],
+        "journal": "Med Clin (Barc)",
+        "year": 2006,
+        "pubDate": "2006 Sep 9",
+        "doi": "",
+        "pubType": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "spa"
+        ]
+      },
+      {
+        "pmid": "39708251",
+        "title": "Effects of isoflavone interventions on bone turnover markers and factors regulating bone metabolism in postmenopausal women: a systematic review and meta-analysis of randomized controlled trials.",
+        "authors": [
+          "Inpan R",
+          "Dukaew N",
+          "Na Takuathung M",
+          "Teekachunhatean S",
+          "Koonrungsesomboon N"
+        ],
+        "journal": "Arch Osteoporos",
+        "year": 2024,
+        "pubDate": "2024 Dec 21",
+        "doi": "10.1007/s11657-024-01467-3",
+        "pubType": [
+          "Journal Article",
+          "Systematic Review",
+          "Meta-Analysis"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "22433977",
+        "title": "Extracted or synthesized soybean isoflavones reduce menopausal hot flash frequency and severity: systematic review and meta-analysis of randomized controlled trials.",
+        "authors": [
+          "Taku K",
+          "Melby MK",
+          "Kronenberg F",
+          "Kurzer MS",
+          "Messina M"
+        ],
+        "journal": "Menopause",
+        "year": 2012,
+        "pubDate": "2012 Jul",
+        "doi": "10.1097/gme.0b013e3182410159",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "37875614",
+        "title": "Isoflavone intervention and its impact on bone mineral density in postmenopausal women: a systematic review and meta-analysis of randomized controlled trials.",
+        "authors": [
+          "Inpan R",
+          "Na Takuathung M",
+          "Sakuludomkan W",
+          "Dukaew N",
+          "Teekachunhatean S",
+          "Koonrungsesomboon N"
+        ],
+        "journal": "Osteoporos Int",
+        "year": 2024,
+        "pubDate": "2024 Mar",
+        "doi": "10.1007/s00198-023-06944-y",
+        "pubType": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "38825560",
+        "title": "The effect of soy isoflavones given to women in the climacteric period on menopausal symptoms and quality of life: Systematic review and meta-analysis of randomized controlled trials.",
+        "authors": [
+          "Gençtürk N",
+          "Bilgiç FŞ",
+          "Kaban HU"
+        ],
+        "journal": "Explore (NY)",
+        "year": 2024,
+        "pubDate": "2024 Nov-Dec",
+        "doi": "10.1016/j.explore.2024.05.010",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "16645539",
+        "title": "Clinical studies of red clover (Trifolium pratense) dietary supplements in menopause: a literature review.",
+        "authors": [
+          "Booth NL",
+          "Piersen CE",
+          "Banuvar S",
+          "Geller SE",
+          "Shulman LP",
+          "Farnsworth NR"
+        ],
+        "journal": "Menopause",
+        "year": 2006,
+        "pubDate": "2006 Mar-Apr",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "40725220",
+        "title": "Daidzein and Genistein: Natural Phytoestrogens with Potential Applications in Hormone Replacement Therapy.",
+        "authors": [
+          "Intharuksa A",
+          "Arunotayanun W",
+          "Na Takuathung M",
+          "Chaichit S",
+          "Prasansuklab A",
+          "Chaikhong K",
+          "Sirichanchuen B",
+          "Chupradit S",
+          "Koonrungsesomboon N"
+        ],
+        "journal": "Int J Mol Sci",
+        "year": 2025,
+        "pubDate": "2025 Jul 20",
+        "doi": "10.3390/ijms26146973",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "26471215",
+        "title": "Red clover for treatment of hot flashes and menopausal symptoms: A systematic review and meta-analysis.",
+        "authors": [
+          "Ghazanfarpour M",
+          "Sadeghi R",
+          "Roudsari RL",
+          "Khorsand I",
+          "Khadivzadeh T",
+          "Muoio B"
+        ],
+        "journal": "J Obstet Gynaecol",
+        "year": 2016,
+        "pubDate": "2016",
+        "doi": "10.3109/01443615.2015.1049249",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "28160855",
+        "title": "Effects of a standardised extract of Trifolium pratense (Promensil) at a dosage of 80mg in the treatment of menopausal hot flushes: A systematic review and meta-analysis.",
+        "authors": [
+          "Myers SP",
+          "Vigar V"
+        ],
+        "journal": "Phytomedicine",
+        "year": 2017,
+        "pubDate": "2017 Jan 15",
+        "doi": "10.1016/j.phymed.2016.12.003",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "16670414",
+        "title": "Nonhormonal therapies for menopausal hot flashes: systematic review and meta-analysis.",
+        "authors": [
+          "Nelson HD",
+          "Vesco KK",
+          "Haney E",
+          "Fu R",
+          "Nedrow A",
+          "Miller J",
+          "Nicolaidis C",
+          "Walker M",
+          "Humphrey L"
+        ],
+        "journal": "JAMA",
+        "year": 2006,
+        "pubDate": "2006 May 3",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "34455600",
+        "title": "The efficacy of soy isoflavones combined with soy protein on serum concentration of interleukin-6 and tumour necrosis factor-α among post-menopausal women? A systematic review and meta-analysis of randomized controlled trials.",
+        "authors": [
+          "Gholami A",
+          "Mollanoroozy E",
+          "Reza Baradaran H",
+          "Hariri M"
+        ],
+        "journal": "Clin Exp Pharmacol Physiol",
+        "year": 2022,
+        "pubDate": "2022 Jan",
+        "doi": "10.1111/1440-1681.13586",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "15107199",
+        "title": "Red clover isoflavones and menopausal health.",
+        "authors": [
+          "Barentsen R"
+        ],
+        "journal": "J Br Menopause Soc",
+        "year": 2004,
+        "pubDate": "2004 Mar",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "35276910",
+        "title": "Maximizing the Estrogenic Potential of Soy Isoflavones through the Gut Microbiome: Implication for Cardiometabolic Health in Postmenopausal Women.",
+        "authors": [
+          "Leonard LM",
+          "Choi MS",
+          "Cross TL"
+        ],
+        "journal": "Nutrients",
+        "year": 2022,
+        "pubDate": "2022 Jan 27",
+        "doi": "10.3390/nu14030553",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "11810749",
+        "title": "Estrogens and lipids. Can HRT designer estrogens, and phytoestrogens reduce cardiovascular risk markers after menopause?",
+        "authors": [
+          "Ariyo AA",
+          "Villablanca AC"
+        ],
+        "journal": "Postgrad Med",
+        "year": 2002,
+        "pubDate": "2002 Jan",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "30592686",
+        "title": "Equol Decreases Hot Flashes in Postmenopausal Women: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.",
+        "authors": [
+          "Daily JW",
+          "Ko BS",
+          "Ryuk J",
+          "Liu M",
+          "Zhang W",
+          "Park S"
+        ],
+        "journal": "J Med Food",
+        "year": 2019,
+        "pubDate": "2019 Feb",
+        "doi": "10.1089/jmf.2018.4265",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "10384819",
+        "title": "Reproductive actions of phytoestrogens.",
+        "authors": [
+          "Whitten PL",
+          "Naftolin F"
+        ],
+        "journal": "Baillieres Clin Endocrinol Metab",
+        "year": 1998,
+        "pubDate": "1998 Dec",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "25074017",
+        "title": "Red clover extract for alleviating hot flushes in postmenopausal women: a meta-analysis.",
+        "authors": [
+          "Gartoulla P",
+          "Han MM"
+        ],
+        "journal": "Maturitas",
+        "year": 2014,
+        "pubDate": "2014 Sep",
+        "doi": "10.1016/j.maturitas.2014.06.018",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "34392659",
+        "title": "Pharmacological and therapeutic properties of the Red Clover (Trifolium pratense L.): an overview of the new finding.",
+        "authors": [
+          "Mohsen A",
+          "Fatemeh K",
+          "Leila N",
+          "Mona P",
+          "Mohammad Z",
+          "Mozafar K"
+        ],
+        "journal": "J Tradit Chin Med",
+        "year": 2021,
+        "pubDate": "2021 Aug",
+        "doi": "10.19852/j.cnki.jtcm.20210324.001",
+        "pubType": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "24736703",
+        "title": "Alveolar bone loss: mechanisms, potential therapeutic targets, and interventions.",
+        "authors": [
+          "Intini G",
+          "Katsuragi Y",
+          "Kirkwood KL",
+          "Yang S"
+        ],
+        "journal": "Adv Dent Res",
+        "year": 2014,
+        "pubDate": "2014 May",
+        "doi": "10.1177/0022034514529305",
+        "pubType": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "38189863",
+        "title": "Efficacy of plant-derived dietary supplements in improving overall menopausal symptoms in women: An updated systematic review and meta-analysis.",
+        "authors": [
+          "Oh MR",
+          "Park JH",
+          "Park SK",
+          "Park SH"
+        ],
+        "journal": "Phytother Res",
+        "year": 2024,
+        "pubDate": "2024 Mar",
+        "doi": "10.1002/ptr.8112",
+        "pubType": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "17239573",
+        "title": "Trifolium pratense isoflavones in the treatment of menopausal hot flushes: a systematic review and meta-analysis.",
+        "authors": [
+          "Coon JT",
+          "Pittler MH",
+          "Ernst E"
+        ],
+        "journal": "Phytomedicine",
+        "year": 2007,
+        "pubDate": "2007 Feb",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "34346265",
+        "title": "Effect of menopausal symptom treatment options on palpitations: a systematic review.",
+        "authors": [
+          "Sheng Y",
+          "Carpenter JS",
+          "Elomba CD",
+          "Alwine JS",
+          "Yue M",
+          "Chen CX",
+          "Tisdale JE"
+        ],
+        "journal": "Climacteric",
+        "year": 2022,
+        "pubDate": "2022 Apr",
+        "doi": "10.1080/13697137.2021.1948006",
+        "pubType": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "30269660",
+        "title": "Effects of red clover on perimenopausal and postmenopausal women's blood lipid profile: A meta-analysis.",
+        "authors": [
+          "Luís Â",
+          "Domingues F",
+          "Pereira L"
+        ],
+        "journal": "Climacteric",
+        "year": 2018,
+        "pubDate": "2018 Oct",
+        "doi": "10.1080/13697137.2018.1501673",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "24312387",
+        "title": "Soy, red clover, and isoflavones and breast cancer: a systematic review.",
+        "authors": [
+          "Fritz H",
+          "Seely D",
+          "Flower G",
+          "Skidmore B",
+          "Fernandes R",
+          "Vadeboncoeur S",
+          "Kennedy D",
+          "Cooley K",
+          "Wong R",
+          "Sagar S",
+          "Sabri E",
+          "Fergusson D"
+        ],
+        "journal": "PLoS One",
+        "year": 2013,
+        "pubDate": "2013",
+        "doi": "10.1371/journal.pone.0081968",
+        "pubType": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "16857655",
+        "title": "Soy and red clover for mid-life and aging.",
+        "authors": [
+          "Geller SE",
+          "Studee L"
+        ],
+        "journal": "Climacteric",
+        "year": 2006,
+        "pubDate": "2006 Aug",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "11528359",
+        "title": "Red clover (Trifolium pratense) for menopausal women: current state of knowledge.",
+        "authors": [
+          "Fugh-Berman A",
+          "Kronenberg F"
+        ],
+        "journal": "Menopause",
+        "year": 2001,
+        "pubDate": "2001 Sep-Oct",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "17943751",
+        "title": "Phytoestrogens for vasomotor menopausal symptoms.",
+        "authors": [
+          "Lethaby AE",
+          "Brown J",
+          "Marjoribanks J",
+          "Kronenberg F",
+          "Roberts H",
+          "Eden J"
+        ],
+        "journal": "Cochrane Database Syst Rev",
+        "year": 2007,
+        "pubDate": "2007 Oct 17",
+        "doi": "",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "30156931",
+        "title": "Effect of phytoestrogens on sexual function in menopausal women: a systematic review and meta-analysis.",
+        "authors": [
+          "Najaf Najafi M",
+          "Ghazanfarpour M"
+        ],
+        "journal": "Climacteric",
+        "year": 2018,
+        "pubDate": "2018 Oct",
+        "doi": "10.1080/13697137.2018.1472566",
+        "pubType": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "40639456",
+        "title": "Investigating the effects of probiotics during the menopause transition: A systematic review & meta-analysis.",
+        "authors": [
+          "Andrews RAF",
+          "Lacey A",
+          "Roach H",
+          "Tomlinson R",
+          "Kidd EJ",
+          "Bache K"
+        ],
+        "journal": "Clin Nutr ESPEN",
+        "year": 2025,
+        "pubDate": "2025 Oct",
+        "doi": "10.1016/j.clnesp.2025.07.009",
+        "pubType": [
+          "Journal Article",
+          "Systematic Review",
+          "Meta-Analysis"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "39254422",
+        "title": "Isoflavones obtained from red clover improve both dyslipidemia and menopausal symptoms in menopausal women: a prospective randomized placebo-controlled trial.",
+        "authors": [
+          "Yigit E",
+          "Unsal S"
+        ],
+        "journal": "Climacteric",
+        "year": 2024,
+        "pubDate": "2024 Dec",
+        "doi": "10.1080/13697137.2024.2393121",
+        "pubType": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "language": [
+          "eng"
+        ]
+      },
+      {
+        "pmid": "28276200",
+        "title": "Vasomotor symptoms resulting from natural menopause: a systematic review and network meta-analysis of treatment effects from the National Institute for Health and Care Excellence guideline on menopause.",
+        "authors": [
+          "Sarri G",
+          "Pedder H",
+          "Dias S",
+          "Guo Y",
+          "Lumsden MA"
+        ],
+        "journal": "BJOG",
+        "year": 2017,
+        "pubDate": "2017 Sep",
+        "doi": "10.1111/1471-0528.14619",
+        "pubType": [
+          "Journal Article",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "language": [
+          "eng"
+        ]
+      }
+    ]
+  },
+  "clinicalTrials": {
+    "query": "red clover AND menopause",
+    "totalResults": 10,
+    "fetchedCount": 10,
+    "studies": [
+      {
+        "nctId": "NCT01116310",
+        "title": "Clinical Trial to Evaluate the Efficacy of FITOGYN Versus Placebo on the Vasomotor Symptomatology Associated With Menopause",
+        "officialTitle": "Randomized, Double-blind, Placebo-controlled Clinical Trial, to Evaluate the Efficacy and Tolerability of the Combination of Soy Isoflavones and Red Clover Extract (FITOGYN) in the Treatment of the Hot Flushes in Menopausal Women.",
+        "status": "UNKNOWN",
+        "phase": "PHASE4",
+        "enrollment": 166,
+        "conditions": [
+          "Postmenopausal Women With Moderate Vasomotor Symptoms"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Soy isoflavones (Glycine max L) and red clover extract (Trifolium pretense L)"
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo"
+          }
+        ],
+        "startDate": "2010-04",
+        "completionDate": "2012-07"
+      },
+      {
+        "nctId": "NCT03948243",
+        "title": "Licorice Botanical Dietary Supplements - Metabolism and Safety in Women",
+        "officialTitle": "Licorice Botanical Dietary Supplements - Metabolism and Safety in Women",
+        "status": "COMPLETED",
+        "phase": "PHASE1",
+        "enrollment": 19,
+        "conditions": [
+          "Food-drug Interaction"
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Licorice"
+          },
+          {
+            "type": "DRUG",
+            "name": "Alprazolam 2 MG"
+          },
+          {
+            "type": "DRUG",
+            "name": "Caffeine 100 MG"
+          },
+          {
+            "type": "DRUG",
+            "name": "Tolbutamide 250 mg"
+          },
+          {
+            "type": "DRUG",
+            "name": "Dextromethorphan 30mg"
+          }
+        ],
+        "startDate": "2019-04-01",
+        "completionDate": "2022-04-22"
+      },
+      {
+        "nctId": "NCT00010959",
+        "title": "Single-Dose Study of Black Cohosh and Red Clover",
+        "officialTitle": "A Phase I Single-Dose Pharmacokinetic Study of Black Cohosh and Red Clover in Healthy Menopausal Women 45-59 Years of Age",
+        "status": "COMPLETED",
+        "phase": "PHASE1",
+        "enrollment": 30,
+        "conditions": [
+          "Menopause"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Cimicifuga racemosa"
+          },
+          {
+            "type": "DRUG",
+            "name": "Trifolium pratense"
+          }
+        ],
+        "startDate": "2001-02",
+        "completionDate": "2002-02"
+      },
+      {
+        "nctId": "NCT02028702",
+        "title": "Alternative Treatments for Menopausal Women",
+        "officialTitle": "Alternative Treatments for Menopausal Women: The Efficacy of a Novel Red Clover Treatment on Menopausal Women.",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 61,
+        "conditions": [
+          "Menopause",
+          "Hot Flushes",
+          "Osteoporosis",
+          "Dyslipidemia"
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Placebo"
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Red Clover extract"
+          }
+        ],
+        "startDate": "2012-06",
+        "completionDate": "2014-12"
+      },
+      {
+        "nctId": "NCT02174666",
+        "title": "Isoflavone Treatment for Postmenopausal Osteopenia.",
+        "officialTitle": "The Effects of Red Clover Treatment on Bone Tissue Regulation in Postmenopausal Osteopenia.",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 85,
+        "conditions": [
+          "Osteopenia",
+          "Osteoporosis"
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Red clover extract"
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Supplementation (placebo)"
+          }
+        ],
+        "startDate": "2014-06",
+        "completionDate": "2016-11"
+      },
+      {
+        "nctId": "NCT07182370",
+        "title": "Polyphenol Metabolism and Personalized Nutrition in Menopause (PolyPause).",
+        "officialTitle": "Polyphenol Metabolism and Personalized Nutrition in Menopause: Metabotypes, Microbiome-virome, and Relationship With Quality of Life and Cardiovascular Risk.",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "NA",
+        "enrollment": 90,
+        "conditions": [
+          "Menopause Related Conditions",
+          "Cardiovascular Risk"
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Capsules containing plant extracts, including resveratrol, ellagic acid and isoflavones"
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Consumption of placebo"
+          }
+        ],
+        "startDate": "2024-01-15",
+        "completionDate": "2027-08-31"
+      },
+      {
+        "nctId": "NCT00066144",
+        "title": "Use of Black Cohosh and Red Clover for the Relief of Menopausal Symptoms",
+        "officialTitle": "Black Cohosh and Red Clover Efficacy for the Relief of Menopausal Symptoms",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "enrollment": 112,
+        "conditions": [
+          "Hot Flashes",
+          "Menopause"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Cimicifuga racemosa"
+          },
+          {
+            "type": "DRUG",
+            "name": "Trifolium pratense"
+          },
+          {
+            "type": "DRUG",
+            "name": "Black cohosh"
+          },
+          {
+            "type": "DRUG",
+            "name": "Red clover"
+          }
+        ],
+        "startDate": "2003-04",
+        "completionDate": "2006-04"
+      },
+      {
+        "nctId": "NCT06209697",
+        "title": "Effect of Red Clover on Menopause Symptoms and Lipid Profile",
+        "officialTitle": "Isoflavones Obtained From Red Clover Improves Both Dyslipidemia and Menopausal Symptoms in Menopausal Women: a Prospective Randomized Placebo-controlled Trial",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 82,
+        "conditions": [
+          "Menopause"
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "red clover"
+          }
+        ],
+        "startDate": "2022-03-20",
+        "completionDate": "2023-09-20"
+      },
+      {
+        "nctId": "NCT03205787",
+        "title": "Red Clover Botanical Dietary Supplements - Metabolism and Safety in Women",
+        "officialTitle": "Red Clover Botanical Dietary Supplements - Metabolism and Safety in Women",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "enrollment": 20,
+        "conditions": [
+          "Food-drug Interaction"
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Trifolium pratense"
+          }
+        ],
+        "startDate": "2017-09-21",
+        "completionDate": "2020-07-01"
+      },
+      {
+        "nctId": "NCT03844685",
+        "title": "Red Clover and Lifestyle Changes to Contrast Menopausal Symptoms in Premenopausal Breast Cancer Patients Given Tamoxifen",
+        "officialTitle": "RED CLOVER EXTRACT (PROMENSIL) AND LIFESTYLE CHANGES TO CONTRAST MENOPAUSAL SYMPTOMS IN PREMENOPAUSAL WOMEN WITH HORMONE-SENSITIVE BREAST CANCER RECEIVING ADJUVANT ANTI-ESTROGEN THERAPY",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "enrollment": 88,
+        "conditions": [
+          "Breast Cancer"
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Promensil"
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo Oral Tablet"
+          }
+        ],
+        "startDate": "2012-07-05",
+        "completionDate": "2016-02-23"
+      }
+    ]
+  }
+}
