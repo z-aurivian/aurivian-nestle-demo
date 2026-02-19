@@ -341,7 +341,7 @@ export default function ClaimSubstantiationDemo() {
                 <span className="font-bold text-[#00FFB3]">{totalPapers} papers analyzed</span>
                 {' \u2014 '}
                 <span className="text-aurivian-gray">
-                  9x more than Consensus AI&apos;s 50-paper cap
+                  across {data.ingestion.dataSources.length} data sources in {data.ingestion.languages.length} languages
                 </span>
               </p>
             </div>
