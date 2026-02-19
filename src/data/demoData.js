@@ -53,7 +53,7 @@ const magnesiumSleep = {
       { name: 'Consumer / Social Media', papers: 103 },
     ],
     languagesDetected: ['English', 'Japanese', 'German', 'Spanish', 'Korean', 'Chinese'],
-    dateRange: { from: '1994-03-01', to: '2025-11-15' },
+    dateRange: { from: '1992-01-01', to: '2026-01-01' },
     avgProcessingTimeSec: 0.42,
   },
 
@@ -537,7 +537,7 @@ const redCloverMenopause = {
       { name: 'Consumer / Social Media', papers: 70 },
     ],
     languagesDetected: ['English', 'German', 'Italian', 'Spanish', 'Portuguese'],
-    dateRange: { from: '1999-06-01', to: '2025-09-20' },
+    dateRange: { from: '1998-01-01', to: '2025-12-01' },
     avgProcessingTimeSec: 0.38,
   },
 
@@ -996,7 +996,7 @@ const collagenSkin = {
       { name: 'Consumer / Social Media', papers: 88 },
     ],
     languagesDetected: ['English', 'Japanese', 'Korean', 'German', 'French', 'Chinese'],
-    dateRange: { from: '2002-01-01', to: '2025-12-01' },
+    dateRange: { from: '2007-01-01', to: '2025-12-01' },
     avgProcessingTimeSec: 0.45,
   },
 
